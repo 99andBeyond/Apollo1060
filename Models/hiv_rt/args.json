@@ -1,0 +1,12 @@
+{
+  "features": [
+    {
+      "type": "DESCS"
+    }
+  ],
+  "estimator": "lgbm_reg",
+  "classification": false,
+  "scaler": "standard",
+  "y_endpoint": "pChEMBL Value",
+  "feature_selection": "lgbm"
+}

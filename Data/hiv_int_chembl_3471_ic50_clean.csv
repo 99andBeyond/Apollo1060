@@ -1,0 +1,776 @@
+SMILES                                                                                                                    ,MolWt             ,MolLogP              ,pChEMBL Value
+C=C(C=O)[C@@H]1C[C@@]2(C)C(=CC1=O)[C@H](OC(=O)/C(C)=C/C(C)CCCC)CC[C@@H]2C(=O)N[C@@H](CC(C)C)C(=O)OC                       ,557.7280000000004 ,5.061500000000005    ,5.52
+C=C(C=O)[C@@H]1C[C@@]2(C)C(=CC1=O)[C@H](OC(=O)/C(C)=C/C(C)CCCC)CC[C@@H]2C(=O)O                                            ,430.5410000000003 ,4.442200000000004    ,5.52
+C=C(C=O)[C@@H]1C[C@@]2(C)C(=CC1=O)[C@H](OC(=O)/C(C)=C/C(C)CCCC)CC[C@@H]2C(=O)O/C(=N\C1CCCCC1)NC1CCCCC1                    ,636.874           ,7.51180000000001     ,4.06
+C=C(C=O)[C@@H]1C[C@@]2(C)C(=CC1=O)[C@H](OC(=O)/C(C)=C/C(C)CCCC)CC[C@@H]2C(=O)ON[C@@H](C(=O)OC)c1ccccc1                    ,593.7170000000003 ,5.319700000000005    ,5.3
+C=C(C=O)[C@@H]1C[C@@]2(C)C(=CC1=O)[C@H](OC(=O)/C(C)=C/C(C)CCCC)CC[C@@H]2C(=O)ON[C@H](C(=O)OC)c1ccccc1                     ,593.7170000000003 ,5.319700000000005    ,5.3
+C=C(C=O)[C@@H]1C[C@@]2(C)C(=CC1=O)[C@H](OC(=O)/C(C)=C/C(C)CCCC)CC[C@@H]2C(=O)OP(=O)(OCC)OCC                               ,566.6280000000003 ,6.081900000000007    ,4.09
+C=C(CO)[C@@H]1C[C@@]2(C)C(=C[C@H]1O)[C@H](OC(=O)/C(C)=C/C(C)CCCC)CC[C@@H]2C(=O)O                                          ,434.5730000000003 ,4.027400000000003    ,4.14
+C=C/C(C)=C1\C[C@@]2(C)C(=CC1=O)[C@H](OC(=O)/C(C)=C/C(C)CCCC)CC[C@@H]2C(=O)O                                               ,428.5690000000003 ,5.573400000000005    ,4.12
+C=C1c2c(c(O)c3ncccc3c2OC)C(=O)N1Cc1ccc(F)cc1                                                                              ,350.349           ,3.714800000000002    ,6.82
+C=C1c2c(c(O)c3ncccc3c2OS(=O)(=O)N(C)C)C(=O)N1Cc1ccc(F)cc1                                                                 ,443.4560000000002 ,2.891400000000001    ,6.38
+C=CC(=C)[C@@H]1C[C@@]2(C)C(=CC1=O)[C@H](OC(=O)/C(C)=C/C(C)CCCC)CC[C@@H]2C(=O)O                                            ,428.5690000000003 ,5.429300000000005    ,4.52
+CC(=O)C(/N=N/c1ccc(S(=O)(=O)Nc2ccccn2)cc1)C(=O)Nc1ccccc1C                                                                 ,451.50800000000015,3.870820000000003    ,4.16
+CC(=O)C1(/N=N/c2ccc(S(=O)(=O)Nc3nccc(C)n3)cc2)CCOC1=O                                                                     ,403.42000000000024,1.9442199999999998   ,4.1725
+CC(=O)C1=C(NNC(=O)c2ccccn2)[C@@]2(C)C(=CC1=O)Oc1c(C(C)=O)c(O)c(C)c(O)c12                                                  ,463.44600000000025,1.8982199999999998   ,4.268
+CC(=O)N(C)CCN(C)c1nc(C(=O)NCc2ccc(F)cc2)c(O)c2ncccc12                                                                     ,425.4640000000001 ,2.319                ,6.81
+CC(=O)N(C)c1nc(C(=O)NCc2ccc(F)cc2)c(O)c2ncccc12                                                                           ,368.3680000000001 ,2.3872               ,7.6
+CC(=O)N1CCN(c2nc(C(=O)NCc3ccc(F)cc3)c(O)c3ncccc23)CC1                                                                     ,423.4480000000002 ,2.0729999999999995   ,7.6
+CC(=O)Nc1cc(S(=O)(=O)O)cc2cc(S(=O)(=O)O)cc(O)c12                                                                          ,361.35300000000007,0.9971999999999999   ,6.4350000000000005
+CC(=O)Nc1ccc(/C=C/c2ccc3ccc(C(=O)O)c(O)c3n2)cc1                                                                           ,348.35800000000006,3.767400000000002    ,5.885
+CC(=O)Nc1ccc(C(C2=C(O)C(=O)c3ccccc3C2=O)C2=C(O)C(=O)c3ccccc3C2=O)cc1                                                      ,493.4710000000003 ,4.511200000000002    ,4.09
+CC(=O)Nc1ccc(N)c2cc(S(=O)(=O)O)ccc12                                                                                      ,280.305           ,1.6271               ,5.52
+CC(=O)Nc1ccc2c(c1)C(=O)N(O)C(=O)C2C(=O)NCc1ccc(F)cc1                                                                      ,385.35100000000006,1.5556999999999996   ,7.0
+CC(=O)Nc1cccc2cc(S(=O)(=O)O)ccc12                                                                                         ,265.29            ,2.0449               ,4.695
+CC(=O)Oc1cc(S(=O)(=O)Nc2n[nH]c(Nc3ccc(C)cc3)n2)c(S)cc1Cl                                                                  ,453.9330000000001 ,3.5249200000000007   ,5.0600000000000005
+CC(=O)Oc1ccc(/C=C/C(=O)NCC(NC(=O)/C=C/c2ccc(OC(C)=O)c(OC(C)=O)c2)C(=O)O)cc1OC(C)=O                                        ,596.5450000000003 ,1.7999999999999996   ,5.39
+CC(=O)Oc1ccc(/C=C/C(=O)NCCOC(=O)/C=C/c2ccc(OC(C)=O)c(OC(C)=O)c2)cc1OC(C)=O                                                ,553.5200000000003 ,2.7738000000000014   ,4.0
+CC(=O)Oc1ccc(/C=C/C(=O)OCC(OC(=O)/C=C/c2ccc(OC(C)=O)c(OC(C)=O)c2)C(=O)O)cc1OC(C)=O                                        ,598.5130000000003 ,2.654000000000001    ,5.615
+CC(=O)Oc1ccc(/C=C/C(=O)O[C@@H](C(=O)O)[C@@H](OC(=O)/C=C/c2ccc(OC(C)=O)c(OC(C)=O)c2)C(=O)O)cc1OC(C)=O                      ,642.5220000000004 ,2.1071999999999997   ,5.109999999999999
+CC(=O)Oc1ccc(/C=C/C(=O)O[C@H](C(=O)O)[C@H](OC(=O)/C=C/c2ccc(OC(C)=O)c(OC(C)=O)c2)C(=O)O)cc1OC(C)=O                        ,642.5220000000004 ,2.1071999999999997   ,4.91
+CC(=O)c1cc(/C=C/S(=O)(=O)CS(=O)(=O)/C=C/c2cc(C(C)=O)c(C(C)=O)c(C(C)=O)c2)cc(C(C)=O)c1C(C)=O                               ,600.6670000000003 ,4.330900000000004    ,4.8
+CC(=O)c1cc(C(=O)CC(=O)Nc2ccc([N+](=O)[O-])cc2)sc1Nc1ccccc1                                                                ,423.4500000000001 ,4.814000000000003    ,4.324999999999999
+CC(=O)c1cc(C(=O)CC(=O)Nc2cccc([N+](=O)[O-])c2)sc1Nc1ccccc1                                                                ,423.4500000000001 ,4.814000000000003    ,4.275
+CC(=O)c1ccc(/C=C/S(=O)(=O)CS(=O)(=O)/C=C/c2ccc(C(C)=O)c(C(C)=O)c2)cc1C(C)=O                                               ,516.5930000000003 ,3.9257000000000035   ,4.16
+CC(C)(C)Oc1cc(O)c2c(=O)c(-c3ccc(O)cc3)coc2c1                                                                              ,326.348           ,4.048500000000002    ,4.16
+CC(C)(C)Oc1cc(O)c2c(=O)cc(-c3ccccc3)oc2c1                                                                                 ,310.34900000000005,4.342900000000003    ,4.3
+CC(C)Cn1c(=O)c(C(=O)Nc2ccccc2S(N)(=O)=O)c(O)c2ccccc21                                                                     ,415.4710000000002 ,2.2628000000000004   ,4.6
+CC(C)Cn1cnnc1NS(=O)(=O)c1cc(C(=O)Nc2ccc(Cl)cc2)c(Cl)cc1S                                                                  ,500.4330000000001 ,4.5827000000000035   ,4.41
+CC(C)OC(=O)C(=O)/C=C(\O)c1cccn1Cc1ccc(F)cc1                                                                               ,331.343           ,3.0951000000000013   ,4.0
+CC(C)Oc1ccc(Cc2ccccc2)cc1/C([O-])=C/C(=O)C(=O)[O-]                                                                        ,338.3590000000001 ,1.084799999999999    ,7.3
+CC(C)[C@@H](CO)n1cc(C(=O)O)c(=O)c2cc(Cc3cccc(Cl)c3F)ccc21                                                                 ,417.8640000000001 ,4.272400000000004    ,8.09
+CC(Cc1ccc(O)c(O)c1)(C(=O)O)C(C)(Cc1ccc(O)c(O)c1)C(=O)O                                                                    ,390.3880000000001 ,2.476000000000001    ,6.5
+CC(O)(/C=C/C1CC=CC(=O)O1)C(CC(O)/C=C/C=C/C=C/CO)OP(=O)(O)O                                                                ,430.3900000000001 ,1.0550999999999997   ,4.516666666666667
+CC(c1nc(O)c(O)c(C(=O)NCc2ccc(F)cc2)n1)N(C)C                                                                               ,334.351           ,1.5795               ,7.1
+CC1=NN(C(=O)c2ccccc2O)C(=O)/C1=C/c1ccc(O)cc1                                                                              ,322.32            ,2.5397000000000007   ,6.135
+CC1=NN(C(=O)c2ccccc2O)C(=O)/C1=C/c1ccc([N+](=O)[O-])cc1                                                                   ,351.31800000000004,2.742300000000001    ,6.16
+CC1=NN(C(=O)c2ccccc2O)C(=O)/C1=C/c1cccc(O)c1                                                                              ,322.32            ,2.5397000000000007   ,5.59
+CC1=NN(C(=O)c2ccccc2O)C(=O)/C1=C/c1cccc([N+](=O)[O-])c1                                                                   ,351.31800000000004,2.742300000000001    ,5.715
+CC1=NN(C(=O)c2ccccc2O)C(=O)/C1=C/c1ccccc1O                                                                                ,322.32            ,2.539700000000001    ,5.885
+CC1=NN(C(=O)c2ccccc2O)C(=O)/C1=C/c1ccco1                                                                                  ,296.282           ,2.4271000000000003   ,5.635
+CC1=NN(C(=O)c2ccccc2O)C(=O)/C1=C\c1cccc(O)c1                                                                              ,322.32            ,2.5397000000000007   ,5.13
+CC1=NN(c2ccccc2)C(=O)C1/N=N/c1ccc(S(=O)(=O)Nc2nccc(C)n2)cc1                                                               ,449.4960000000001 ,3.460820000000002    ,4.47
+CC1=NN(c2ccccc2)C(=O)C1/N=N/c1ccc(S(=O)(=O)Nc2nnc(C)s2)cc1                                                                ,455.5250000000001 ,3.5223200000000014   ,4.11
+CC1=NN(c2ccccc2)C(=O)C1/N=N/c1ccc(S(=O)(=O)Nc2scc(C)c2C)cc1                                                               ,467.57600000000014,5.040740000000004    ,4.01
+CC1=NNC(=O)C1/N=N/c1ccc(S(=O)(=O)Nc2nccs2)cc1                                                                             ,364.41200000000003,1.9018999999999997   ,4.18
+CC1N=NC(c2ccc(S(=O)(=O)NC3SC(=S)NC3=O)cc2)S1                                                                              ,388.521           ,1.9825               ,4.67
+CC1OC(O)C(O)C(O)C1Oc1c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c2c1=O                                                                ,448.38000000000017,0.4886999999999995   ,4.32
+CC1Oc2cc3c(-c4c(O)cc(O)c5c(O)c6c(cc45)OC(C)C(C)C6=O)c(O)cc(O)c3c(O)c2C(=O)C1C                                             ,546.5280000000002 ,5.093000000000007    ,5.3100000000000005
+CC1c2c(c(O)c3ncccc3c2OS(=O)(=O)N(C)C)C(=O)N1Cc1ccc(F)cc1                                                                  ,445.47200000000015,2.981700000000001    ,6.09
+CCC(=O)C(=O)/C=C(\O)c1c[nH]c2ccc(Cl)cc12                                                                                  ,277.707           ,3.2684000000000006   ,5.16
+CCCC(C(=O)O)c1c(C)nc2ccc(Br)cc2c1-c1ccc(Cl)cc1                                                                            ,432.7450000000001 ,6.594420000000005    ,7.11
+CCCCC(C)/C=C(\C)C(=O)O[C@@H]1CC[C@H](C(=O)O)[C@@]2(C)CC([C@@H](C)C=O)C(=O)C=C12                                           ,432.5570000000002 ,4.522100000000004    ,4.96
+CCCCC(C)/C=C(\C)C(=O)O[C@@H]1CC[C@H](C(=O)O)[C@@]2(C)CC([C@H](C)C=O)C(=O)C=C12                                            ,432.5570000000002 ,4.522100000000004    ,4.96
+CCCCC(C)/C=C(\C)C(=O)O[C@@H]1CC[C@H](C(=O)O)[C@@]2(C)CC3C(C)C(O)OC3(O)C=C12                                               ,450.5720000000002 ,3.7913000000000032   ,4.4
+CCCCC(C)/C=C(\C)C(=O)O[C@@H]1CC[C@H](C(=O)O)[C@@]2(C)C[C@@H](C(C)C(O)O)C(=O)C=C12                                         ,450.5720000000002 ,3.6339000000000032   ,4.4
+CCCCC(C)/C=C(\C)C(=O)O[C@@H]1CC[C@H](C(=O)O)[C@@]2(C)C[C@H]3[C@@H](C)CO[C@]3(O)C[C@H]12                                   ,436.5890000000002 ,4.552800000000005    ,4.35
+CCCCC(C)/C=C(\C)C(=O)O[C@@H]1CC[C@H](C(=O)O)[C@@]2(C)C[C@H]3[C@H](C)CO[C@]3(O)C[C@H]12                                    ,436.5890000000002 ,4.552800000000005    ,4.0
+CCCCCC(=O)Cc1cc(O)cc2c1C(=O)Oc1cc(O)c(C(=O)O)c(CCCCC)c1O2                                                                 ,470.5180000000003 ,5.545500000000005    ,4.473333333333334
+CCCCCC=C(c1cc(Cl)c(O)c(C(=O)NO)c1)c1cc(Cl)c(O)c(C(=O)NO)c1                                                                ,469.3210000000001 ,4.654600000000004    ,5.4
+CCCCCCC/N=C1/C(=O)c2ccccc2C(O)=C1O                                                                                        ,287.35900000000004,4.078900000000003    ,4.0
+CCCCCCCCCCCCCCCCCC[n+]1ccn(C)c1                                                                                           ,335.5999999999999 ,6.574100000000007    ,5.762
+CCCCCCCCCCCCCCCC[n+]1ccn(C)c1                                                                                             ,307.54599999999994,5.793900000000005    ,5.580000000000001
+CCCCCCCCCCCCCCn1cc[n+](C)c1                                                                                               ,279.49199999999996,5.0137000000000045   ,4.48
+CCCCCCCCCCCC[n+]1ccn(C)c1                                                                                                 ,251.438           ,4.233500000000004    ,4.29
+CCCCCCNC(=O)c1c(O)n(O)c(=O)c2cc([N+](=O)[O-])ccc12                                                                        ,349.3430000000001 ,2.1627               ,7.22
+CCCCCCc1cc2c(cc1O)OC(=O)C(C(c1ccccc1)c1c(O)oc3cc(O)c(CCCCCC)cc3c1=O)C2O                                                   ,614.7350000000004 ,7.55610000000001     ,4.95
+CCCCCc1cc(O)cc2c1Oc1c(C=O)c(O)c(Cl)c(C(=O)CCCC)c1C(=O)O2                                                                  ,460.91000000000025,5.9942000000000055   ,4.47
+CCCCCc1cc(O)cc2c1Oc1cc(O)cc(C(=O)CCCC)c1C(=O)O2                                                                           ,398.45500000000027,5.528300000000006    ,4.39
+CCCCCc1cc2cc(O)cc(Oc3c(O)cc(O)c(C(=O)O)c3CCCCC)c2c(=O)o1                                                                  ,470.5180000000003 ,5.865700000000007    ,4.36
+CCCCOC(=O)C(=O)/C=C(\O)c1cccn1Cc1ccc(F)cc1                                                                                ,345.37000000000006,3.4868000000000023   ,4.0
+CCCCn1cnnc1NS(=O)(=O)c1cc(C(=O)NCc2ccccc2)c(Cl)cc1S                                                                       ,480.0150000000001 ,3.7511000000000023   ,4.1
+CCCCn1cnnc1NS(=O)(=O)c1cc(C(=O)Nc2ccc(C)cc2)c(Cl)cc1S                                                                     ,480.0150000000001 ,4.381820000000004    ,4.345
+CCCCn1cnnc1NS(=O)(=O)c1cc(C(=O)Nc2ccc(Cl)cc2)c(Cl)cc1S                                                                    ,500.4330000000001 ,4.726800000000003    ,4.4
+CCCn1cnnc1NS(=O)(=O)c1cc(C(=O)Nc2ccc(C)cc2)c(Cl)cc1S                                                                      ,465.98800000000006,3.991720000000003    ,4.395
+CCCn1cnnc1NS(=O)(=O)c1cc(C(=O)Nc2ccc(C)cc2)c(Cl)cc1SCC(=O)O                                                               ,524.0240000000002 ,3.8797200000000016   ,4.36
+CCN(c1ccccc1)c1nc(N)nc(NS(=O)(=O)c2cc(C)c(Cl)cc2S)n1                                                                      ,450.97700000000015,3.6631200000000015   ,4.6850000000000005
+CCN1CCN(c2nc(C(=O)NCc3ccc(F)cc3)c(O)c3ncccc23)C(=O)C1=O                                                                   ,437.4310000000002 ,1.599599999999999    ,8.0
+CCOC(=O)/C(O)=C/C(=O)c1cn(Cc2ccc(F)cc2)c2cc(N(C)C)ccc2c1=O                                                                ,438.45500000000015,3.4426000000000023   ,4.965
+CCOC(=O)/C(O)=C/C(=O)c1cn(Cc2ccc(F)cc2)c2cc(N3CCN(CC)CC3)ccc2c1=O                                                         ,507.56200000000035,3.518500000000002    ,5.62
+CCOC(=O)/C(O)=C/C(=O)c1cn(Cc2ccc(F)cc2)c2cc(N3CCN(CCCCl)CC3)ccc2c1=O                                                      ,556.0340000000003 ,4.127500000000004    ,5.89
+CCOC(=O)/C(O)=C/C(=O)c1cn(Cc2ccc(F)cc2)c2cc(N3CCNCC3)ccc2c1=O                                                             ,479.50800000000027,2.786200000000001    ,4.62
+CCOC(=O)/C(O)=C/C(=O)c1cn(Cc2ccc(F)cc2)c2cc(N3CCOCC3)ccc2c1=O                                                             ,480.4920000000003 ,3.2132000000000023   ,5.68
+CCOC(=O)/C=C/c1ccc(O)c(O)c1                                                                                               ,208.213           ,1.6741               ,4.0
+CCOC(=O)C(=O)/C=C(\O)c1c[nH]c2ccc(Cl)cc12                                                                                 ,293.7060000000001 ,2.8524000000000003   ,5.16
+CCOC(=O)C(=O)/C=C(\O)c1ccc2ncc(/C(O)=C/C(=O)C(=O)OCC)c(O)c2c1                                                             ,429.38100000000026,2.0026               ,4.2924999999999995
+CCOC(=O)C(=O)/C=C(\O)c1cn(Cc2ccc(F)cc2)c2ccc(OC)cc12                                                                      ,397.40200000000016,3.868400000000003    ,6.38
+CCOC(=O)C(=O)/C=C(\O)c1cn(Cc2ccc(F)cc2)c2ccccc12                                                                          ,367.3760000000001 ,3.8598000000000026   ,5.87
+CCOC(=O)C(=O)/C=C(\O)c1cn(Cc2ccccc2)c2ccc(OC)cc12                                                                         ,379.41200000000015,3.729300000000003    ,6.495
+CCOC(=O)C(=O)/C=C(\O)c1cn(Cc2ccccc2)c2ccccc12                                                                             ,349.3860000000001 ,3.7207000000000026   ,5.695
+CCOC(=O)C(=O)CC(=O)/C=C/c1cccn1Cc1ccc(C)cc1                                                                               ,339.3910000000001 ,2.949420000000001    ,4.1
+CCOC(=O)C(=O)CC(=O)/C=C/c1cccn1Cc1ccc(Cl)cc1                                                                              ,359.8090000000001 ,3.294400000000002    ,4.245
+CCOC(=O)C(=O)CC(=O)/C=C/c1cccn1Cc1ccc(F)cc1                                                                               ,343.35400000000004,2.780100000000001    ,4.039999999999999
+CCOC(=O)C(=O)CC(=O)/C=C/c1cccn1Cc1ccc(OC)cc1                                                                              ,355.3900000000001 ,2.6496000000000004   ,4.359999999999999
+CCOC(=O)C(=O)CC(=O)/C=C/c1cccn1Cc1ccc([N+](=O)[O-])cc1                                                                    ,370.3610000000001 ,2.549200000000001    ,4.295
+CCOC(=O)C(=O)CC(=O)/C=C/c1cccn1Cc1ccccc1                                                                                  ,325.36400000000003,2.641000000000001    ,5.085
+CCOC(=O)C(C1=C(O)C(=O)c2ccccc2C1=O)C1=C(O)C(=O)c2ccccc2C1=O                                                               ,432.3840000000002 ,2.9483000000000015   ,4.13
+CCOC(=O)C1=C(O)/C(=C\c2ccc(CNC(=O)C(=O)Nc3ccccc3)o2)N=C1C                                                                 ,423.4250000000001 ,2.725100000000001    ,4.4
+CCOC(=O)c1c(-c2ccccc2)csc1NC(NC(=O)c1ccco1)C(=O)c1ccc(C)cc1                                                               ,488.5650000000003 ,5.544120000000004    ,4.1
+CCOC(=O)c1c(NC(=O)c2cc3ccccc3oc2=O)sc(C(N)=O)c1C                                                                          ,400.4120000000002 ,2.6908200000000004   ,4.15
+CCOC(=O)c1cccc(-c2c3c(c(O)c4ncccc24)C(=O)N(Cc2ccc(F)cc2)C3)c1                                                             ,456.4730000000002 ,5.079200000000003    ,5.68
+CCOC(=O)c1ccccc1-c1c2c(c(O)c3ncccc13)C(=O)N(Cc1ccc(F)cc1)C2                                                               ,456.4730000000002 ,5.079200000000004    ,6.46
+CCOC(=O)c1cnc(NCCCNc2ncc(C(=O)OCC)c(O)n2)nc1O                                                                             ,406.39900000000017,0.9452999999999996   ,4.9275
+CCOc1ccc(-c2c3c(c(O)c4ncccc24)C(=O)N(Cc2ccc(F)cc2)C3)cc1                                                                  ,428.46300000000014,5.301200000000003    ,5.92
+CCOc1ccc(C(C2=C(O)C(=O)c3ccccc3C2=O)C2=C(O)C(=O)c3ccccc3C2=O)cc1OC                                                        ,510.49800000000033,4.960100000000004    ,4.0
+CCSc1nnc(N2C(=O)c3ccc(C(=O)c4ccc(C(=O)O)cc4)cc3C2=O)s1                                                                    ,439.47400000000016,3.379900000000002    ,4.1
+CCc1cc(/C=N/CC/N=C/c2cc(CC)sc2S)c(S)s1                                                                                    ,368.618           ,5.049800000000005    ,4.949999999999999
+CCn1c(/C(O)=C/C(=O)C(=O)O)cc2cc3c(cc21)OCO3                                                                               ,303.2700000000001 ,1.9424999999999997   ,4.779999999999999
+CCn1c(/C(O)=C/C(=O)C(=O)O)cc2ccccc21                                                                                      ,259.261           ,2.2138               ,5.3
+CCn1c(C(=O)CC(=O)C(=O)OC)cc2cc3c(cc21)OCO3                                                                                ,317.2970000000001 ,1.7047999999999996   ,4.130000000000001
+CCn1cc(/C(O)=C/C(=O)C(=O)O)c2cc3c(cc21)OCO3                                                                               ,303.2700000000001 ,1.9425000000000001   ,4.935
+CCn1cc(C(=O)CC(=O)C(=O)OC)c2ccccc21                                                                                       ,273.288           ,1.9761               ,4.58
+CN(C(=O)C(=O)N1CCCC1)c1nc(C(=O)NCc2ccc(F)cc2)c(O)c2ncccc12                                                                ,451.45800000000014,1.9896999999999996   ,7.4
+CN(C(=O)C(=O)N1CCCCC1)c1nc(C(=O)NCc2ccc(F)cc2)c(O)c2ncccc12                                                               ,465.4850000000002 ,2.3798000000000004   ,8.15
+CN(C(=O)C(N)=O)c1nc(C(=O)NCc2ccc(F)cc2)c(O)c2ncccc12                                                                      ,397.3660000000001 ,0.8526               ,7.7
+CN(C)C(=O)C(=O)N(C)c1nc(C(=O)NCc2ccc(F)cc2)c(O)c2ncccc12                                                                  ,425.4200000000001 ,1.4554999999999991   ,7.4
+CN(C)C(=O)CN(C)c1nc(C(=O)NCc2ccc(F)cc2)c(O)c2ncccc12                                                                      ,411.43700000000007,1.9288999999999996   ,7.24
+CN(C)C(=O)Oc1c2c(c(O)c3ncccc13)C(=O)N(Cc1ccc(F)cc1)C2                                                                     ,395.39000000000016,3.2959000000000023   ,6.12
+CN(C)C(=O)Oc1c2c(c(O)c3ncccc13)C(=O)N(Cc1ccc(F)cc1)C2=O                                                                   ,409.37300000000016,2.9361000000000015   ,5.62
+CN(C)C(C)(C)c1nc(O)c(O)c(C(=O)NCc2ccc(F)cc2)n1                                                                            ,348.378           ,1.7535999999999998   ,7.3
+CN(C)C(c1ccccc1)c1nc(O)c(O)c(C(=O)NCc2ccc(F)cc2)n1                                                                        ,396.4220000000001 ,2.6079               ,6.7
+CN(C)Cc1nc(O)c(O)c(C(=O)NCc2ccc(F)cc2)n1                                                                                  ,320.324           ,1.0184999999999997   ,6.7
+CN(C)S(=O)(=O)Oc1c2c(c(O)c3ncccc13)C(=O)N(Cc1ccc(F)cc1)C2                                                                 ,431.4450000000002 ,2.420700000000001    ,6.59
+CN(C)S(=O)(=O)Oc1c2c(c(O)c3ncccc13)C(=O)N(Cc1ccc(F)cc1)C21CC1                                                             ,457.4830000000003 ,2.9098000000000015   ,6.45
+CN(C)S(=O)(=O)Oc1c2c(c(O)c3nccnc13)C(=O)N(Cc1ccc(F)cc1)C2                                                                 ,432.4330000000002 ,1.8157000000000003   ,7.48
+CN(C)c1ccc(C(c2c(O)oc3ccccc3c2=O)c2c(O)oc3ccccc3c2=O)cc1                                                                  ,455.4660000000002 ,4.5568000000000035   ,4.1049999999999995
+CN1C(=O)CC(c2nc(C(=O)NCc3ccc(F)cc3)c(O)c3ncccc23)N(C)C1=O                                                                 ,437.43100000000015,2.3594999999999997   ,7.7575
+CN1C(=O)CC(c2nc(C(=O)NCc3ccc(F)cc3)c(O)c3ncccc23)NC1=O                                                                    ,423.4040000000001 ,2.017299999999999    ,7.89
+CN1C(=O)NC(=O)CC1c1nc(C(=O)NCc2ccc(F)cc2)c(O)c2ncccc12                                                                    ,423.4040000000001 ,2.0172999999999996   ,7.9
+CN1C(=O)c2c(c(O)c3nccnc3c2O)C1=O                                                                                          ,245.194           ,0.2668               ,4.31
+CN1CCCCC1c1nc(C(=O)NCc2ccc(F)cc2)c(O)c(=O)n1C                                                                             ,374.4160000000001 ,1.7118               ,6.68
+CN1CCCCC1c1nc(O)c(O)c(C(=O)NCc2ccc(F)cc2)n1                                                                               ,360.38900000000007,2.1136999999999997   ,6.7
+CN1CCN(c2nc(C(=O)NCc3ccc(F)cc3)c(O)c3ncccc23)CC1                                                                          ,395.43800000000016,2.1563               ,7.4
+CN1CCOCC1c1nc(C(=O)NCc2ccc(F)cc2)c(O)c(=O)n1C                                                                             ,376.3880000000001 ,0.5580999999999993   ,7.506666666666667
+CNC(=O)C(=O)N(C)c1nc(C(=O)NCc2ccc(F)cc2)c(O)c2ncccc12                                                                     ,411.3930000000001 ,1.1133000000000002   ,7.82
+COC(=O)/C=C/c1ccc(O)c(O)c1                                                                                                ,194.18599999999998,1.2839999999999998   ,4.0
+COC(=O)C(=O)/C=C(\O)c1cccn1Cc1ccc(F)cc1                                                                                   ,303.28900000000004,2.3165000000000004   ,4.32
+COC(=O)C(=O)CC(=O)c1cc2cc3c(cc2n1C)OCO3                                                                                   ,303.2700000000001 ,1.2218999999999995   ,4.15
+COC(=O)C(=O)CC(=O)c1cc2cc3c(cc2n1Cc1ccccc1)OCO3                                                                           ,379.36800000000017,2.7332               ,4.425
+COC(=O)C(=O)CC(=O)c1cc2ccccc2n1C                                                                                          ,259.261           ,1.4931999999999999   ,4.175
+COC(=O)C(=O)CC(=O)c1cn(C)c2cc3c(cc12)OCO3                                                                                 ,303.2700000000001 ,1.2219               ,4.22
+COC(=O)C(COC(=O)/C=C/c1ccc(OC(C)=O)c(OC(C)=O)c1)NC(=O)/C=C/c1ccc(OC(C)=O)c(OC(C)=O)c1                                     ,611.5560000000003 ,2.3154000000000003   ,5.55
+COC(=O)C(COC(=O)/C=C/c1ccc(OC(C)=O)c(OC(C)=O)c1)OC(=O)/C=C/c1ccc(OC(C)=O)c(OC(C)=O)c1                                     ,612.5400000000003 ,2.742400000000001    ,5.0
+COC(=O)C1=C(O)/C(=C\c2ccc(CNC(=O)C(=O)Nc3ccc(C)cc3)o2)N=C1C                                                               ,423.4250000000001 ,2.6434200000000008   ,4.09
+COC(=O)CCSC1c2c(c(O)c3ncccc3c2OC)C(=O)N1Cc1ccc(F)cc1                                                                      ,456.4950000000003 ,4.039000000000003    ,6.51
+COC(=O)O[C@]1(C(=O)O)CC(OC(=O)/C=C/c2ccc(O)c(O)c2)[C@H](O)[C@H](OC(=O)/C=C/c2ccc(O)c(O)c2)C1                              ,574.4910000000002 ,1.8202999999999996   ,6.1
+COC(=O)[C@@H](CNC(=O)/C=C/c1ccc(OC(C)=O)c(OC(C)=O)c1)NC(=O)/C=C/c1ccc(OC(C)=O)c(OC(C)=O)c1                                ,610.5720000000002 ,1.8883999999999983   ,4.98
+COC(=O)[C@@H](COC(=O)/C=C/c1ccc(OC(C)=O)c(OC(C)=O)c1)NC(=O)/C=C/c1ccc(OC(C)=O)c(OC(C)=O)c1                                ,611.5560000000003 ,2.3154000000000003   ,5.525
+COC(=O)[C@H](COC(=O)/C=C/c1ccc(OC(C)=O)c(OC(C)=O)c1)NC(=O)/C=C/c1ccc(OC(C)=O)c(OC(C)=O)c1                                 ,611.5560000000003 ,2.3154000000000003   ,5.484999999999999
+COC(=O)c1c(C)c2c(c(C)c1O)OC(=O)c1c(C)cc(O)c(C=O)c1O2                                                                      ,372.3290000000001 ,2.947060000000002    ,5.07
+COC(=O)c1c(C)cc(OC(=O)c2c(C)cc(O)c(C=O)c2O)c(C)c1O                                                                        ,374.34500000000014,2.546960000000001    ,4.305
+COC(=O)c1cc2ccc(O)c(O)c2cn1                                                                                               ,219.196           ,1.4325999999999997   ,4.85
+COC(=O)c1ccc(C(=O)OC)c(NC(=O)c2ccc(C)c([N+](=O)[O-])c2)c1                                                                 ,372.3330000000001 ,2.728720000000001    ,4.04
+COC(=O)c1ccc2c(O)c(O)ccc2c1                                                                                               ,218.208           ,2.0375999999999994   ,4.536666666666666
+COC(=O)c1sccc1NC(=O)c1ccc(C(=O)Nc2ccsc2C(=O)OC)cc1                                                                        ,444.4900000000002 ,3.887400000000002    ,4.01
+COC(C(=O)O)c1c(C)nc2ccc(Br)cc2c1-c1ccc(Cl)cc1                                                                             ,420.69000000000005,5.398220000000004    ,7.4
+COC1O[C@H](CO)[C@@H](O)[C@H](OC(=O)c2cc(O)c(O)c(O)c2)[C@H]1OC(=O)c1cc(O)c(O)c(O)c1                                        ,498.39300000000026,-0.6043000000000006  ,5.27
+COCCCNS(=O)(=O)c1ccc(Oc2cc(O)c3c(c2O)C(=O)c2ccccc2C3=O)cc1                                                                ,483.4980000000002 ,2.9803000000000024   ,4.32
+COOC(=O)c1cc2cc(O)c(O)cc2cn1                                                                                              ,235.195           ,1.3641999999999994   ,4.0
+COOC(=O)c1cc2ccc(O)c(O)c2cn1                                                                                              ,235.195           ,1.3641999999999996   ,4.85
+COOC(=O)c1ccc2c(O)c(O)ccc2c1                                                                                              ,234.207           ,1.9692               ,5.1
+CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](OC(=O)/C=C/c2ccc(O)c(O)c2)[C@H]1OC(=O)/C=C/c1ccc(O)c(O)c1                               ,518.4710000000002 ,0.783699999999999    ,4.5
+CO[C@@H]1O[C@H](COC(=O)/C=C/c2ccc(O)c(O)c2)[C@@H](O)[C@H](O)[C@H]1OC(=O)/C=C/c1ccc(O)c(O)c1                               ,518.4710000000002 ,0.7836999999999998   ,4.52
+CO[C@@H]1O[C@H](COC(=O)/C=C/c2ccc(O)c(O)c2)[C@@H](O)[C@H](OC(=O)/C=C/c2ccc(O)c(O)c2)[C@H]1O                               ,518.4710000000002 ,0.7836999999999996   ,4.46
+CO[C@H]1O[C@H](CO)[C@@H](O)[C@H](OC(=O)/C=C/c2ccc(O)c(O)c2)[C@H]1OC(=O)/C=C/c1ccc(O)c(O)c1                                ,518.4710000000002 ,0.783699999999999    ,4.54
+CO[C@H]1O[C@H](COC(=O)/C=C/c2ccc(O)c(O)c2)[C@@H](O)[C@H](O)[C@H]1OC(=O)/C=C/c1ccc(O)c(O)c1                                ,518.4710000000002 ,0.7836999999999998   ,4.16
+CO[C@H]1O[C@H](COC(=O)/C=C/c2ccc(O)c(O)c2)[C@@H](O)[C@H](OC(=O)/C=C/c2ccc(O)c(O)c2)[C@H]1O                                ,518.4710000000002 ,0.7836999999999996   ,4.08
+COc1c(O)cc2oc(-c3ccc(O)c(O)c3)cc(=O)c2c1O                                                                                 ,316.2650000000001 ,2.291000000000001    ,4.220000000000001
+COc1c2c(c(O)c3c1NCCN3)C(=O)N(Cc1ccc(F)cc1)C2                                                                              ,343.358           ,2.5333000000000006   ,6.07
+COc1c2c(c(O)c3ncc(F)cc13)C(=O)N(Cc1ccc(F)cc1)C2                                                                           ,356.32800000000003,3.3832000000000013   ,8.14
+COc1c2c(c(O)c3ncccc13)C(=O)N(Cc1ccc(F)cc1)C2                                                                              ,338.338           ,3.2441000000000013   ,7.273333333333333
+COc1c2c(c(O)c3ncccc13)C(=O)N(Cc1ccc(F)cc1)C2(C)C                                                                          ,366.39200000000005,3.979200000000003    ,6.68
+COc1c2c(c(O)c3ncccc13)C(=O)N(Cc1ccc(F)cc1)C21CC1                                                                          ,364.3760000000001 ,3.7332000000000027   ,8.15
+COc1c2c(c(O)c3ncccc13)C(=O)N(Cc1ccc(F)cc1)C2=O                                                                            ,352.321           ,2.8843000000000014   ,7.1
+COc1c2c(c(O)c3ncccc13)C(=O)N(Cc1ccc(F)cc1)C2C                                                                             ,352.365           ,3.805100000000002    ,7.06
+COc1c2c(c(O)c3ncccc13)C(=O)N(Cc1ccc(F)cc1)C2O                                                                             ,354.337           ,2.7350000000000017   ,7.44
+COc1c2c(c(O)c3ncccc13)C(=O)N(Cc1ccc(F)cc1)C2OC                                                                            ,368.36400000000003,3.3891000000000018   ,7.19
+COc1c2c(c(O)c3ncccc13)C(=O)N(Cc1ccc(F)cc1)C2SCCC(=O)N1CCNCC1                                                              ,510.5910000000003 ,3.2978000000000005   ,7.23
+COc1c2c(c(O)c3ncccc13)C(=O)N(Cc1ccc(F)cc1)C2SCCC(=O)O                                                                     ,442.46800000000013,3.9506000000000023   ,6.53
+COc1c2c(c(O)c3nccnc13)C(=O)N(Cc1ccc(F)cc1)C2                                                                              ,339.326           ,2.639100000000001    ,6.68
+COc1c2c(c(O)c3ncn(Cc4ccccc4)c13)C(=O)N(Cc1ccc(F)cc1)C2                                                                    ,417.44000000000017,4.093900000000003    ,4.62
+COc1cc(/C=C/C(=O)/C=C(O)/C=C/c2ccc(O)c(OC)c2)ccc1O                                                                        ,368.38500000000005,3.852600000000003    ,4.426666666666667
+COc1cc(/C=C/C(=O)/C=C/c2ccc(O)c(OC)c2)ccc1O                                                                               ,326.348           ,3.4107000000000025   ,4.43
+COc1cc(/C=C/C(=O)CC(=O)/C=C/c2ccc(O)c(O)c2)ccc1O                                                                          ,354.35800000000006,3.0669000000000026   ,4.9
+COc1cc(/C=C/C(=O)OCCc2ccccc2)ccc1O                                                                                        ,298.338           ,3.1999000000000026   ,4.0
+COc1cc(/C=C/S(=O)(=O)CS(=O)(=O)/C=C/c2cc(O)c(O)c(OC)c2)cc(O)c1O                                                           ,472.49300000000017,1.9549000000000003   ,4.3
+COc1cc(/C=C/S(=O)(=O)CS(=O)(=O)/C=C/c2cc(OC)c(C(C)=O)c(C(C)=O)c2)cc(C(C)=O)c1C(C)=O                                       ,576.6450000000002 ,3.9429000000000034   ,4.52
+COc1cc(/C=C/S(=O)(=O)CS(=O)(=O)/C=C/c2ccccc2)cc(C(C)=O)c1C(C)=O                                                           ,462.5450000000002 ,3.5291000000000023   ,4.1
+COc1cc(/C=C/S(=O)(=O)CS(=O)(=O)/C=C/c2ccccc2)cc(O)c1O                                                                     ,410.46900000000005,2.5351000000000017   ,4.1
+COc1cc(/C=C/c2ccc3ccc(C(=O)O)c(O)c3n2)cc(O)c1O                                                                            ,353.3300000000001 ,3.2288000000000014   ,6.03
+COc1cc(/C=C/c2ccc3ccc(C(=O)O)c(O)c3n2)cc(OC)c1O                                                                           ,367.3570000000001 ,3.5318000000000027   ,5.33
+COc1cc(/C=C/c2ccc3ccc(C(=O)O)c(O)c3n2)ccc1O                                                                               ,337.331           ,3.5232000000000014   ,5.49
+COc1cc(/C=C2/C(=O)N(C(=O)c3ccccc3O)N=C2C)cc(OC)c1OC                                                                       ,396.39900000000017,2.8599000000000014   ,5.7
+COc1cc(/C=C2/C(=O)N(C(=O)c3ccccc3O)N=C2C)ccc1O                                                                            ,352.34600000000006,2.5483000000000016   ,6.16
+COc1cc(/C=C2\CCC/C(=C\c3ccc(O)c(OC)c3)C2=O)ccc1O                                                                          ,366.41300000000007,4.3350000000000035   ,4.0
+COc1cc(/C=N/NC2=NC(=O)C(CC(=O)Nc3ccc(Cl)c(Cl)c3)S2)ccc1O                                                                  ,467.33400000000006,3.657900000000002    ,4.234999999999999
+COc1cc(C(=O)O)c2c(c1C)OC(=O)c1c(C)cc(O)c(C=O)c1O2                                                                         ,358.3020000000001 ,2.8532400000000013   ,4.945
+COc1cc(C(C2=C(O)C(=O)c3ccccc3C2=O)C2=C(O)C(=O)c3ccccc3C2=O)cc(Br)c1O                                                      ,561.3400000000003 ,5.029500000000003    ,4.6
+COc1cc(C(C2=C(O)C(=O)c3ccccc3C2=O)C2C(=O)c3ccccc3C(=O)C2O)cc(Br)c1O                                                       ,563.3560000000002 ,4.194500000000003    ,4.7
+COc1cc(C(c2c(O)oc3ccccc3c2=O)c2c(O)oc3ccccc3c2=O)ccc1O                                                                    ,458.4220000000002 ,4.205000000000003    ,4.12
+COc1cc(C)c2c(c1C)OC(=O)c1c(C)c(Cl)c(O)c(C=O)c1O2                                                                          ,362.7650000000001 ,4.116860000000003    ,5.528333333333333
+COc1cc(C)c2c(c1C=O)Oc1c(c(C)c(O)c3c1C(O)OC3=O)OC2=O                                                                       ,386.3120000000002 ,2.3163400000000007   ,5.426
+COc1cc(C2C(Cl)C(=O)N2NC(=O)c2ccccc2O)cc(OC)c1OC                                                                           ,406.8220000000002 ,2.2537000000000003   ,4.136666666666667
+COc1cc(CNC(=O)c2ccc3ccc(C(=O)O)c(O)c3n2)cc(O)c1O                                                                          ,384.3440000000001 ,1.9883999999999995   ,5.19
+COc1cc(Cc2ccccc2)cc(/C(O)=C/C(=O)C(=O)O)c1                                                                                ,312.321           ,2.8385999999999996   ,6.85
+COc1cc(Cc2ccccc2)cc(C(=O)CC(=O)C(=O)O)c1                                                                                  ,312.321           ,2.5125               ,6.85
+COc1cc(F)ccc1Cn1ccc2c3c(ncc21)C(=O)N(O)CC3                                                                                ,341.3420000000001 ,2.6198000000000006   ,7.39
+COc1cc(NC(=O)c2ccc3ccc(C(=O)O)c(O)c3n2)cc(O)c1O                                                                           ,370.3170000000001 ,2.3106999999999998   ,5.19
+COc1cc(Nc2n[nH]c(NS(=O)(=O)c3cc(C)c(Cl)cc3S)n2)cc(OC)c1OC                                                                 ,485.9750000000002 ,3.625420000000002    ,4.795
+COc1cc(O)c2c(=O)c(O)c(-c3ccc(O)c(O)c3)oc2c1                                                                               ,316.26500000000004,2.2910000000000013   ,4.375
+COc1cc(O)c2c(O)c3c(cc2c1-c1c(OC)cc(OC)c2c(OC)c4c(cc12)OC(C)C(C)C4=O)OC(C)C(C)C3=O                                         ,602.6360000000003 ,6.305000000000006    ,4.25
+COc1cc(O)c2c(OC)c3c(cc2c1-c1c(O)cc(OC)c2c(OC)c4c(cc12)OC(C)C(C)C4=O)OC(C)C(C)C3=O                                         ,602.6360000000003 ,6.305000000000005    ,5.1
+COc1cc(O)c2c(OC)c3c(cc2c1-c1c(OC)cc(OC)c2c(OC)c4c(cc12)OC(C)C(C)C4=O)OC(C)C(C)C3=O                                        ,616.6630000000002 ,6.608000000000007    ,4.4
+COc1cc(OC)c2c(OC)c3c(cc2c1-c1c(OC)cc(OC)c2c(OC)c4c(cc12)OC(C)C(C)C4=O)OC(C)C(C)C3=O                                       ,630.6900000000003 ,6.911000000000008    ,4.22
+COc1cc2c(cc1Cc1cccc(Cl)c1F)c(=O)c(C(=O)O)cn2CCO                                                                           ,405.8090000000002 ,3.083900000000001    ,8.04
+COc1ccc(-c2c3c4cc(OC)c(O)cc4oc(=O)c3n3ccc4c(OC)c(OC)c(OC)cc4c23)cc1O                                                      ,543.5280000000004 ,5.473300000000005    ,4.756666666666667
+COc1ccc(-c2c3c4cc(OC)c(O)cc4oc(=O)c3n3ccc4cc(O)c(OC)cc4c23)cc1O                                                           ,499.4750000000002 ,5.161700000000006    ,5.156666666666666
+COc1ccc(-c2c3c4cc(OC)c(OS(=O)(=O)[O-])cc4oc(=O)c3n3ccc4cc(OC)c(OC)cc4c23)cc1O                                             ,592.5580000000002 ,4.598100000000005    ,4.853333333333333
+COc1ccc(-c2c3n(c4c(=O)oc5cc(O)c(OC)cc5c24)CCc2c-3cc(OC)c(OC)c2OC)cc1O                                                     ,545.5440000000004 ,5.092000000000005    ,4.646666666666667
+COc1ccc(-c2c3n(c4c(=O)oc5cc(OS(=O)(=O)[O-])c(OC)cc5c24)C(O)Cc2c-3cc(OC)c(OC)c2OC)cc1O                                     ,640.5990000000003 ,3.7163000000000026   ,4.376666666666666
+COc1ccc(-c2c3n(c4c(=O)oc5cc(OS(=O)(=O)[O-])c(OC)cc5c24)CCc2cc(OC)c(OC)cc2-3)cc1O                                          ,594.5740000000003 ,4.2168000000000045   ,4.663333333333333
+COc1ccc(/C(O)=C/C(=O)C(=O)O)cc1Cc1ccccc1                                                                                  ,312.32099999999997,2.8386000000000013   ,6.82
+COc1ccc(/C=C/C(=O)/C=C(O)/C=C/c2ccc(OC)c(OC)c2)cc1OC                                                                      ,396.4390000000002 ,4.458600000000003    ,4.0
+COc1ccc(/C=C/C(=O)/C=C/c2ccc(OC)c(OC)c2)cc1OC                                                                             ,354.4020000000001 ,4.016700000000004    ,4.0
+COc1ccc(/C=C/C(=O)OCCc2ccccc2)cc1O                                                                                        ,298.33799999999997,3.1999000000000026   ,4.22
+COc1ccc(/C=C/C(=O)OCCc2ccccc2)cc1OC                                                                                       ,312.365           ,3.502900000000003    ,4.0
+COc1ccc(/C=C/c2ccc3ccc(C(=O)O)c(O)c3n2)cc1O                                                                               ,337.331           ,3.5232000000000023   ,5.765000000000001
+COc1ccc(/C=C2/C(=O)N(C(=O)c3ccccc3O)N=C2C)cc1                                                                             ,336.34700000000004,2.8427000000000016   ,6.135
+COc1ccc(/C=C2/C(=O)N(C(=O)c3ccccc3O)N=C2C)cc1OC                                                                           ,366.3730000000001 ,2.851300000000002    ,6.3
+COc1ccc(/C=C2\C(=O)N(C(=O)c3ccccc3O)N=C2C)cc1                                                                             ,336.34700000000004,2.8427000000000016   ,6.22
+COc1ccc(C(=O)CC(=O)C(=O)O)cc1CN=[N+]=[N-]                                                                                 ,277.236           ,1.732                ,5.0600000000000005
+COc1ccc(C(=O)CC(=O)C(=O)O)cc1Cc1ccccc1                                                                                    ,312.32099999999997,2.512500000000001    ,6.82
+COc1ccc(C(=O)Nc2ccc(O)c(-c3nc4ccccc4o3)c2)cc1[N+](=O)[O-]                                                                 ,405.36600000000016,4.369500000000002    ,5.1899999999999995
+COc1ccc(CCNC(=O)CC(=O)N/N=C/c2ccco2)cc1OC                                                                                 ,359.3820000000001 ,1.4958999999999998   ,4.05
+COc1ccc(CN2C(=O)c3c(c(O)c4nccnc4c3O)C2=O)c(OC)c1                                                                          ,381.34400000000016,1.8543999999999998   ,6.37
+COc1ccc(CN2C(=O)c3c(c(O)c4nccnc4c3O)C2=O)cc1                                                                              ,351.3180000000001 ,1.8457999999999999   ,6.25
+COc1ccc(CN=[N+]=[N-])cc1C(=O)CC(=O)C(=O)O                                                                                 ,277.236           ,1.7319999999999998   ,4.6850000000000005
+COc1ccc(CNC(=O)c2c(O)n(O)c(=O)c3cc([N+](=O)[O-])ccc23)cc1                                                                 ,385.3320000000001 ,1.7911999999999997   ,8.0
+COc1ccc(Cc2ccccc2)cc1/C(O)=C/C(=O)C(=O)O                                                                                  ,312.3210000000001 ,2.8385999999999996   ,7.0
+COc1ccc(Cn2cccc2/C=C/C(=O)CC(=O)C(=O)O)cc1                                                                                ,327.33600000000007,2.1711               ,4.525
+COc1ccc(Cn2nnnc2C(=O)/C=C(\O)c2c[nH]c3ccc(Cl)cc23)cc1                                                                     ,409.833           ,3.6465000000000014   ,4.47
+COc1ccc(N(CC(=O)N/N=C/c2c(O)ccc3ccccc23)S(C)(=O)=O)cc1Cl                                                                  ,461.92700000000025,3.1237000000000013   ,4.125
+COc1ccc(Nc2n[nH]c(NS(=O)(=O)c3cc(C)c(Cl)cc3S)n2)cc1                                                                       ,425.92300000000006,3.608220000000001    ,4.83
+COc1ccc(OC)c(CN2C(=O)c3c(c(O)c4nccnc4c3O)C2=O)c1                                                                          ,381.34400000000005,1.8543999999999994   ,6.11
+COc1ccc2c(C(=O)NCc3ccc(F)cc3)c(O)n(O)c(=O)c2c1                                                                            ,358.3250000000001 ,2.0221               ,8.0
+COc1ccc2c(c1)C(=O)N(O)C(=O)C2C(=O)NCc1ccc(F)cc1                                                                           ,358.3250000000001 ,1.6058999999999994   ,6.58
+COc1ccc2c(c1)C(=O)N1C[S+]([O-])CC1C(=O)S2                                                                                 ,297.35699999999997,0.8581               ,4.07
+COc1ccc2c(c1)c(C(=O)/C=C(\O)C(=O)O)cn2Cc1c(C)cc(C)cc1C                                                                    ,393.4390000000002 ,4.332660000000003    ,6.38
+COc1ccc2c(c1)c(C(=O)/C=C(\O)C(=O)O)cn2Cc1cc(C)cc(C)c1                                                                     ,379.41200000000015,4.0242400000000025   ,5.96
+COc1ccc2oc(=O)c(-c3csc(N/N=C/c4ccccc4O)n3)cc2c1                                                                           ,393.4240000000001 ,4.0767000000000015   ,4.76
+COc1cccc(CN2C(=O)c3c(c(O)c4nccnc4c3O)C2=O)c1OC                                                                            ,381.34400000000016,1.8543999999999996   ,6.37
+COc1cccc(Nc2n[nH]c(NS(=O)(=O)c3cc(C)c(Cl)cc3S)n2)c1                                                                       ,425.92300000000006,3.608220000000001    ,4.9399999999999995
+COc1cccc(OC)c1CN1C(=O)c2c(c(O)c3nccnc3c2O)C1=O                                                                            ,381.3440000000001 ,1.8543999999999996   ,5.7
+COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1                         ,543.5250000000003 ,0.0012999999999993017,5.835
+COc1cccc2c1c(C(=O)/C=C(\O)C(=O)O)cn2Cc1ccc(F)cc1                                                                          ,369.34800000000007,3.5465000000000018   ,6.85
+COc1ccccc1C(=O)CC(=O)CC(=O)C(=O)O                                                                                         ,264.2329999999999 ,0.8809               ,5.4
+COc1ccccc1CN1C(=O)c2c(c(O)c3nccnc3c2O)C1=O                                                                                ,351.31800000000004,1.8458               ,6.09
+COc1cnc2c(O)c3c(c(OC)c2c1)CN(Cc1ccc(F)cc1)C3=O                                                                            ,368.36400000000003,3.2527000000000017   ,7.03
+C[C@@H](c1ccccc1)N1C(=O)c2c(c(O)c3nccnc3c2O)C1=O                                                                          ,335.3190000000001 ,2.3982000000000006   ,5.69
+C[C@@H]1O[C@@H](O)[C@H](O)[C@H](O)[C@H]1Oc1c(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c2c1=O                                       ,464.3790000000002 ,0.1942999999999998   ,4.695
+C[C@@H]1O[C@@H](OC2C[C@](O)(C(=O)CO)Cc3c(O)c4c(c(O)c32)C(=O)c2c(O)cccc2C4=O)C[C@H](N)[C@@H]1O                             ,529.4980000000004 ,-0.3016999999999999  ,5.515
+C[C@@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](OCCc3ccc(O)c(O)c3)O[C@H](CO)[C@H]2OC(=O)/C=C/c2ccc(O)c(O)c2)[C@H](O)[C@H](O)[C@H]1O,624.5920000000004 ,-1.0159000000000016  ,5.11
+C[C@@H]1Oc2cc3c(-c4c(O)cc(O)c5c(O)c6c(cc45)O[C@H](C)[C@@H](C)C(=O)O6)c(O)cc(O)c3c(O)c2C(=O)[C@@H]1C                       ,562.5270000000003 ,4.815700000000007    ,5.285
+C[C@H](OC(=O)/C=C/c1ccc(O)c(O)c1)[C@H](C)OC(=O)/C=C/c1ccc(O)c(O)c1                                                        ,414.41000000000014,3.099000000000003    ,5.11
+C[C@H](c1ccccc1)N1C(=O)c2c(c(O)c3nccnc3c2O)C1=O                                                                           ,335.3190000000001 ,2.3982000000000006   ,5.98
+C[C@H]1C(=O)c2c(cc(O)c(C3OC(CO)C(O)C(O)C3O)c2O)OC1c1ccc(O)c(O)c1                                                          ,464.4230000000002 ,-0.023600000000000287,4.32
+Cc1[nH]n(-c2ccccc2)c(=O)c1C(c1ccc(O)c(O)c1)c1c(C)n(C)n(-c2ccccc2)c1=O                                                     ,482.5400000000002 ,3.863240000000003    ,4.279999999999999
+Cc1c2cc(O)c(=O)cc-2oc2cc(O)c(O)cc12                                                                                       ,258.229           ,2.3230200000000005   ,5.9475
+Cc1cc(C(F)(F)F)cc(-n2nc(NS(=O)(=O)c3cc(C)c(Cl)cc3S)nc2N)n1                                                                ,478.9090000000003 ,3.623040000000002    ,5.115
+Cc1cc(C(O)(c2cc(C)c(O)c(C(=O)O)c2)c2cc(C)c(O)c(C(=O)O)c2)cc(C(=O)O)c1O                                                    ,482.44100000000026,3.107460000000001    ,4.5575
+Cc1cc(C(c2cc(C)c(O)c(C(=O)O)c2)c2cc(C)c(O)c(C(=O)O)c2)cc(C(=O)O)c1O                                                       ,466.44200000000023,4.003460000000003    ,4.735
+Cc1cc(C)c(Cn2cc(C(=O)/C=C(\O)C(=O)O)c3cc(F)ccc32)c(C)c1                                                                   ,381.40300000000013,4.463160000000003    ,5.6
+Cc1cc(C)nc(NS(=O)(=O)c2ccc(NC(=O)c3cccc4c(N)c5ccccc5nc34)cc2)n1                                                           ,498.56800000000027,4.4301400000000015   ,4.59
+Cc1cc(C)nc(NS(=O)(=O)c2ccc(NC(=O)c3cccn4c(=O)c5ccccc5nc34)cc2)n1                                                          ,500.54000000000025,3.307640000000001    ,4.234999999999999
+Cc1cc(Cc2cc(C)c(O)c(C(=O)O)c2)cc(C(=O)O)c1O                                                                               ,316.309           ,2.701840000000001    ,4.1850000000000005
+Cc1cc(O)c(C=O)c2c1C(=O)Oc1c(C)c(O)c(C(=O)O)c(C)c1O2                                                                       ,358.30200000000013,2.8586600000000004   ,5.0
+Cc1cc(O)c(C=O)c2c1C(=O)Oc1c(CO)c(O)c3c(c1O2)C(O)OC3=O                                                                     ,388.2840000000001 ,1.1972199999999997   ,4.9075
+Cc1cc(O)c(C=O)c2c1C(=O)Oc1c(COC(=O)/C=C/C(=O)O)c(O)c(C(=O)O)c(C)c1O2                                                      ,472.35800000000023,2.23424              ,5.263333333333333
+Cc1cc(O)c2c(=O)c3c(O)cc(O)c4c5c(O)cc(O)c6c(=O)c7c(O)cc(C)c8c1c2c(c34)c(c78)c65                                            ,504.4500000000004 ,5.081040000000003    ,5.0
+Cc1cc(S(=O)(=O)/N=C(\NN)NNc2cccc(C(F)(F)F)n2)c(S)cc1Cl                                                                    ,454.88700000000006,2.47562              ,4.029999999999999
+Cc1cc(S(=O)(=O)/N=C(\NN)Nc2ccc(Cl)cc2)c(S)cc1Cl                                                                           ,405.3320000000001 ,3.2106200000000005   ,5.45
+Cc1cc(S(=O)(=O)Nc2n[nH]c(-c3ccc(Cl)cn3)n2)c(S)cc1Cl                                                                       ,416.31500000000005,3.5714200000000007   ,5.02
+Cc1cc(S(=O)(=O)Nc2n[nH]c(Nc3ccccc3)n2)c(S)cc1Cl                                                                           ,395.89700000000005,3.5996200000000007   ,4.845000000000001
+Cc1cc(S(=O)(=O)Nc2nc(N)n(-c3ccccc3)n2)c(S)cc1Cl                                                                           ,395.89700000000005,2.9008200000000004   ,4.925
+Cc1cc(S(=O)(=O)Nc2nc(N)n(-c3ccccn3)n2)c(S)cc1Cl                                                                           ,396.8850000000001 ,2.29582              ,4.74
+Cc1cc(S(=O)(=O)Nc2nc(N)nc(N(C)C)n2)c(S)cc1Cl                                                                              ,374.879           ,1.5711199999999999   ,4.245
+Cc1cc(S(=O)(=O)Nc2nc(N)nc3nc4ccccc4n23)c(S)cc1Cl                                                                          ,420.90700000000004,2.9110200000000006   ,5.0600000000000005
+Cc1cc(S(=O)(=O)Nc2nc(Nc3ccc(Cl)cc3)nn2C)c(S)cc1Cl                                                                         ,444.36900000000014,4.263420000000003    ,4.77
+Cc1cc(S(=O)(=O)Nc2nc(Nc3ccccc3)nn2C)c(S)cc1Cl                                                                             ,409.9240000000001 ,3.6100200000000013   ,4.68
+Cc1cc(S(=O)(=O)Nc2nc3ccccc3[nH]2)c(S)cc1Cl                                                                                ,353.8560000000001 ,3.6142200000000013   ,4.385
+Cc1cc(S(=O)(=O)Nc2nc3ccccc3nc2-c2ccc(Br)cc2)c(S)cc1Cl                                                                     ,520.8610000000001 ,6.1106200000000035   ,5.005
+Cc1cc(S(=O)(=O)Nc2nc3ccccc3nc2-c2ccc(Cl)cc2)c(S)cc1Cl                                                                     ,476.4100000000002 ,6.001520000000004    ,4.8100000000000005
+Cc1cc(S(=O)(=O)Nc2nc3ccccc3nc2-c2cccc([N+](=O)[O-])c2)c(S)cc1Cl                                                           ,486.9620000000002 ,5.256320000000003    ,4.96
+Cc1cc(S(=O)(=O)Nc2nnc3c(C(F)(F)F)cc(Cl)cn23)c(S)cc1Cl                                                                     ,457.28600000000006,4.452820000000002    ,4.795
+Cc1cc(S(=O)(=O)Nc2nnc3c(Cl)cc(C(F)(F)F)cn23)c(S)cc1Cl                                                                     ,457.28600000000006,4.452820000000002    ,4.715
+Cc1cc(S(=O)(=O)Nc2nnc3c4c(C)csc4ncn23)c(S)cc1Cl                                                                           ,425.9480000000001 ,3.6987400000000017   ,5.45
+Cc1cc(S(=O)(=O)Nc2nnc3c4ccccc4ccn23)c(S)cc1Cl                                                                             ,404.9040000000001 ,3.9338200000000016   ,4.925
+Cc1cc(S(=O)(=O)Nc2nnc3c4scc(C)c4ncn23)c(S)cc1Cl                                                                           ,425.9480000000001 ,3.6987400000000017   ,5.08
+Cc1cc(S(=O)(=O)Nc2nnc3cc(C(F)(F)F)cc(C)n23)c(S)cc1Cl                                                                      ,436.86800000000005,4.107840000000001    ,4.845000000000001
+Cc1cc(S(=O)(=O)Nc2nnc3ccc4ccccc4n23)c(S)cc1Cl                                                                             ,404.9040000000001 ,3.9338200000000016   ,5.01
+Cc1cc(S(=O)(=O)Nc2nnc3cnc4ccccc4n23)c(S)cc1Cl                                                                             ,405.89200000000005,3.3288200000000012   ,4.79
+Cc1cc2c(cc1Cl)SC(C1C(=O)NC(=O)NC1=O)NS2(=O)=O                                                                             ,375.81500000000005,0.34071999999999986  ,4.22
+Cc1cc2c(cc1Cl)SC(C1C(=O)NC(=S)NC1=O)NS2(=O)=O                                                                             ,391.8830000000001 ,0.5056199999999997   ,4.26
+Cc1cc2cc(O)c(O)cc2c(C)c1-c1ccc(C(F)(F)F)cc1                                                                               ,332.32099999999997,5.553640000000004    ,4.68
+Cc1cc2cc(O)c(O)cc2c(C)c1-c1ccc(O)c(O)c1                                                                                   ,296.322           ,3.9460400000000027   ,4.64
+Cc1cc2cc(O)c(O)cc2c(C)c1-c1cccc(C(F)(F)F)c1                                                                               ,332.32099999999997,5.553640000000004    ,4.89
+Cc1cc2cc(O)c(O)cc2c(C)c1-c1ccccc1                                                                                         ,264.32399999999996,4.5348400000000035   ,4.12
+Cc1cc2cc(O)c(O)cc2c(C)c1-c1ccccc1C(F)(F)F                                                                                 ,332.32099999999997,5.553640000000005    ,4.66
+Cc1cc2nc3nc(N)nc(NS(=O)(=O)c4cc(C)c(Cl)cc4S)n3c2cc1C                                                                      ,448.96100000000024,3.5278600000000004   ,5.3149999999999995
+Cc1ccc(-c2c(C)cc3cc(O)c(O)cc3c2C)cc1                                                                                      ,278.351           ,4.843260000000004    ,4.08
+Cc1ccc(-c2c(CC(=O)O)c(C)nc3ccc(Br)cc23)cc1                                                                                ,370.24600000000004,4.908240000000004    ,6.46
+Cc1ccc(-n2cnnc2NS(=O)(=O)c2cc(C(=O)Nc3ccc(Cl)cc3)c(Cl)cc2S)cc1                                                            ,534.4500000000002 ,5.224320000000003    ,5.4
+Cc1ccc(-n2cnnc2NS(=O)(=O)c2cc(C(=O)Nc3ccccc3)c(Cl)cc2S)cc1                                                                ,500.0050000000001 ,4.570920000000004    ,5.109999999999999
+Cc1ccc(C(=O)C2=C(O)C(=O)N(CCCc3c[nH]cn3)C2c2ccc(Cl)cc2)cc1                                                                ,435.91100000000006,4.582620000000003    ,4.1
+Cc1ccc(C(=O)N/C(=C/c2ccc(-c3ccc(Cl)cc3Cl)o2)C(=O)NCCCO)cc1                                                                ,473.3560000000002 ,4.831320000000004    ,4.07
+Cc1ccc(CN2C(=O)c3c(c(O)c4nccnc4c3O)C2=O)cc1                                                                               ,335.3190000000001 ,2.145619999999999    ,5.8
+Cc1ccc(Cn2cccc2/C=C/C(=O)CC(=O)C(=O)O)cc1                                                                                 ,311.337           ,2.4709200000000004   ,4.21
+Cc1ccc(NC(=O)C(=O)NCc2ccc(/C=N\NC(=O)C(=O)Nc3cc(Cl)ccc3C)o2)cc1C                                                          ,509.9500000000003 ,3.2019600000000015   ,4.16
+Cc1ccc(NC(=O)c2cc(S(=O)(=O)Nc3nncn3CC(C)C)c(S)cc2Cl)cc1                                                                   ,480.0150000000002 ,4.237720000000003    ,4.0600000000000005
+Cc1ccc(NC(=O)c2cc(S(=O)(=O)Nc3nncn3Cc3ccccc3)c(S)cc2Cl)cc1                                                                ,514.0320000000002 ,4.6300200000000045   ,5.074999999999999
+Cc1ccc(Nc2n[nH]c(NS(=O)(=O)c3cc(C)c(Cl)cc3S)n2)cc1                                                                        ,409.92400000000015,3.9080400000000015   ,4.635
+Cc1ccc(Nc2nc(NS(=O)(=O)c3cc(C)c(Cl)cc3S)n(C)n2)cc1                                                                        ,423.9510000000001 ,3.918440000000002    ,4.675
+Cc1ccc(S(=O)(=O)Nc2ccccc2/N=C/c2sc3ccccc3c2O)cc1                                                                          ,422.5310000000002 ,5.466720000000005    ,4.115
+Cc1ccc2c(O)c3c(c(O)c2n1)C(=O)N(Cc1cccc(Br)c1)C3=O                                                                         ,413.22700000000003,3.5131200000000016   ,6.59
+Cc1ccc2c(c1)C(=O)N1CCSC1C(=O)S2                                                                                           ,265.359           ,2.1424200000000004   ,4.225
+Cc1ccc2c(c1)C(=O)N1CSCC1C(=O)S2                                                                                           ,265.359           ,2.1424200000000004   ,4.24
+Cc1cccc2c1C(O)=C1C(=O)C3C(O)=C(C(=O)NCN4CCN(C(=N)N=C(N)N)CC4)C(=O)[C@@H](N(C)C)[C@@H]3C[C@@H]1C2(C)O                      ,608.7000000000003 ,-0.4689099999999959  ,6.285
+Cc1cccc2c1C(O)=C1C(=O)C3C(O)=C(C(=O)NCNC(CO)(CO)CO)C(=O)[C@@H](N(C)C)[C@@H]3C[C@@H]1C2(C)O                                ,559.6160000000003 ,-0.9893799999999981  ,6.13
+Cc1cccc2c1C(O)=C1C(=O)C3C(O)=C(C(=O)NNC4(C(=O)[O-])CCCC4)C(=O)[C@@H](N(C)C)[C@@H]3C[C@@H]1C2(C)O                          ,552.6040000000004 ,0.31512000000000057  ,5.68
+Cc1ccnc(NS(=O)(=O)c2ccc(/N=N/c3cc4ccccc4c(C(=O)O)c3O)cc2)n1                                                               ,463.4750000000002 ,4.558220000000003    ,4.6
+Cc1ccnc(NS(=O)(=O)c2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)n1                                                              ,485.8750000000001 ,4.902020000000002    ,4.1
+Cc1cnc(NS(=O)(=O)c2ccc(/N=N/c3cc4ccccc4cc3O)cc2)s1                                                                        ,424.5070000000001 ,5.526520000000003    ,4.355
+Cc1csc(-c2cccc(CN3C(=O)c4c(c(O)c5nccnc5c4O)C3=O)c2)c1                                                                     ,417.4460000000001 ,3.8741200000000022   ,6.17
+Cc1nc(C(=O)NCc2ccc(F)cc2)c(O)c(=O)[nH]1                                                                                   ,277.255           ,0.8530199999999999   ,7.22
+Cc1nc2ccc(Br)cc2c(-c2ccc(Cl)cc2)c1C(C)C(=O)O                                                                              ,404.69100000000014,5.814220000000004    ,6.51
+Cc1nc2ccc(Br)cc2c(-c2ccc(Cl)cc2)c1CC(=O)O                                                                                 ,390.66400000000016,5.253220000000003    ,6.57
+Cc1nc2ccc(Br)cc2c(-c2ccccc2)c1CC(=O)O                                                                                     ,356.2190000000001 ,4.599820000000003    ,5.29
+Cc1nc2ccc(Cl)cc2c(-c2ccccc2)c1CC(=O)O                                                                                     ,311.7680000000001 ,4.490720000000003    ,5.04
+Cc1nc2ccccc2c(-c2ccc(Cl)cc2)c1CC(=O)O                                                                                     ,311.76800000000003,4.490720000000002    ,5.51
+Cc1nc2ccccc2c(-c2ccccc2)c1CC(=O)O                                                                                         ,277.323           ,3.8373200000000027   ,4.62
+Cc1ncc(COP(=O)(O)O)c(C2NC(C(=O)O)CS2)c1O                                                                                  ,350.2890000000001 ,0.49311999999999984  ,4.1725
+Cc1nnc(NS(=O)(=O)c2ccc(C3SC(=S)NC3=O)cc2)s1                                                                               ,386.50500000000005,1.83632              ,4.67
+Cc1oc2cc3c(-c4c(O)cc(O)c5c(O)c6c(cc45)O[C@H](C)[C@H](C)C6=O)c(O)cc(O)c3c(O)c2c(=O)c1C                                     ,544.5120000000002 ,5.216540000000007    ,5.7
+Cn1c(/C(O)=C/C(=O)C(=O)O)cc2cc3c(cc21)OCO3                                                                                ,289.24300000000005,1.4595999999999998   ,5.33
+Cn1c(/C(O)=C/C(=O)C(=O)O)cc2ccccc21                                                                                       ,245.23399999999998,1.7308999999999999   ,4.76
+N#C/C(=C\c1ccc(O)c(O)c1)C(=O)NCCCNC(=O)/C(C#N)=C/c1ccc(O)c(O)c1                                                           ,448.4350000000001 ,1.6456599999999992   ,5.26
+N#CCCc1cccc(/C(O)=C\C(=O)C(=O)O)c1                                                                                        ,245.23399999999998,1.69538              ,5.82
+N#CCCc1cccc(C(=O)CC(=O)C(=O)O)c1                                                                                          ,245.23399999999995,1.36928              ,5.785
+N#Cc1ccc2c(C(=O)NCc3ccc(F)cc3)c(O)n(O)c(=O)c2c1                                                                           ,353.309           ,1.8851799999999996   ,7.16
+N#Cc1ccc2ccc(/C=C/c3ccc(O)c(O)c3)nc2c1O                                                                                   ,304.305           ,3.393680000000002    ,5.52
+N=c1oc2c(O)c(O)ccc2cc1C(N)=O                                                                                              ,220.18399999999997,0.4223700000000002   ,4.03
+N=c1oc2cc(O)c(O)cc2cc1C(N)=O                                                                                              ,220.18399999999997,0.4223700000000002   ,4.32
+NC(=O)C(=O)Nc1nc(C(=O)NCc2ccc(F)cc2)c(O)c2ncccc12                                                                         ,383.33900000000006,0.8282999999999998   ,7.4
+NC1=NNC(=O)C1/N=N/c1ccc(S(=O)(=O)Nc2nccs2)cc1                                                                             ,365.40000000000003,0.7982000000000007   ,4.18
+NCCCNc1ccc2c3c(nn2CCNCCO)-c2c(O)ccc(O)c2C(=O)c13                                                                          ,411.4620000000001 ,1.0014999999999996   ,4.9
+NNC(=O)c1ccccc1O                                                                                                          ,152.15299999999996,-0.00430000000000047 ,4.396666666666667
+NNC(=O)c1ccccc1S                                                                                                          ,168.22099999999998,0.5787999999999995   ,4.2
+NNS(=O)(=O)c1ccc(OCC(=O)O)cc1                                                                                             ,246.24399999999997,-0.6979999999999995  ,5.074999999999999
+Nc1ccc(/C=C/c2ccc3ccc(C(=O)O)c(O)c3n2)cc1                                                                                 ,306.321           ,3.3912000000000013   ,5.5600000000000005
+Nc1ccc2c(c1)C(=O)N(O)C(=O)C2C(=O)NCc1ccc(F)cc1                                                                            ,343.314           ,1.1795               ,6.96
+Nc1ccn([C@H]2C[C@@H](O)[C@@H](COP(=O)(O)O[C@@H]3[C@H](COP(=O)(O)O)OC[C@@H]3n3cnc4c(N)ncnc43)O2)c(=O)n1                    ,620.4090000000001 ,-1.5525999999999975  ,4.66
+Nc1nc(N)c(/N=N/c2ccc(S(=O)(=O)NC(=O)c3ccccc3)cc2)c(O)n1                                                                   ,413.41900000000015,1.8806999999999996   ,4.02
+Nc1ncnc2c1ccc1ncn(C3COC(COP(=O)([O-])[O-])C3)c12                                                                          ,363.2700000000001 ,-0.26300000000000034 ,4.2
+Nc1ncnc2cc3c(cc12)ncn3C1COC(COP(=O)([O-])[O-])C1                                                                          ,363.2700000000001 ,-0.26300000000000034 ,4.17
+O=C(/C=C(O)/C=C/c1ccc(O)c(O)c1)/C=C/c1ccc(O)c(O)c1                                                                        ,340.3310000000001 ,3.2466000000000017   ,6.155
+O=C(/C=C(O)/C=C/c1ccccc1)/C=C/c1ccccc1                                                                                    ,276.33500000000004,4.424200000000003    ,4.0
+O=C(/C=C(\O)C(=O)O)CCc1ccccc1                                                                                             ,220.224           ,1.7148               ,4.52
+O=C(/C=C(\O)C(=O)O)CCc1ccccc1Br                                                                                           ,299.12            ,2.4773000000000005   ,5.3
+O=C(/C=C(\O)C(=O)O)CCc1ccccc1Cl                                                                                           ,254.66899999999998,2.3682000000000007   ,4.58
+O=C(/C=C(\O)c1c[nH]c2ccc(Cl)cc12)c1nc[nH]n1                                                                               ,288.69399999999996,2.7212000000000005   ,5.7
+O=C(/C=C(\O)c1ccc(Cc2ccc(F)cc2)o1)c1nc[nH]n1                                                                              ,313.28799999999995,2.9094000000000007   ,7.7
+O=C(/C=C(\O)c1ccc(Cl)cc1)C(=O)/N=N/c1c(O)[nH]c2ccc(Br)cc12                                                                ,448.6600000000001 ,5.0679000000000025   ,4.465
+O=C(/C=C(\O)c1cccc(Cc2ccccc2F)c1)C(=O)N1CCN(C(=O)C(=O)/C=C(\O)c2cccc(Cc3ccccc3F)c2)CC1                                    ,650.6780000000001 ,5.453400000000005    ,6.06
+O=C(/C=C(\O)c1cccc(Cc2ccccc2F)c1)C(=O)NCCCCCNC(=O)C(=O)/C=C(\O)c1cccc(Cc2ccccc2F)c1                                       ,666.7210000000003 ,6.185300000000006    ,5.74
+O=C(/C=C(\O)c1ccccc1)c1ccc2ccc(C(=O)O)c(O)c2n1                                                                            ,335.31500000000005,3.420400000000001    ,4.52
+O=C(/C=C/c1cc(O)c(O)c(O)c1)OCCc1ccccc1                                                                                    ,300.31            ,2.6025               ,5.7
+O=C(/C=C/c1cc(O)c(O)cc1O)OCCc1ccccc1                                                                                      ,300.31            ,2.602500000000001    ,4.26
+O=C(/C=C/c1cc(O)ccc1O)OCCc1ccccc1                                                                                         ,284.311           ,2.8969000000000005   ,4.0
+O=C(/C=C/c1ccc(-c2ccccc2[N+](=O)[O-])o1)Nc1ccc(O)c(-c2nc3ccccc3o2)c1                                                      ,467.4370000000002 ,6.020500000000005    ,4.42
+O=C(/C=C/c1ccc(Cl)cc1)Nc1ccc(NC(=O)c2ccco2)cc1                                                                            ,366.80400000000014,4.837200000000003    ,4.045
+O=C(/C=C/c1ccc(F)c(F)c1)OCCc1ccccc1                                                                                       ,288.29299999999995,3.7639000000000022   ,4.0
+O=C(/C=C/c1ccc(O)c(O)c1)/C=C/c1ccc(O)c(O)c1                                                                               ,298.29400000000004,2.8047000000000013   ,6.22
+O=C(/C=C/c1ccc(O)c(O)c1)CC(=O)/C=C/c1ccc(O)c(O)c1                                                                         ,340.331           ,2.7639000000000022   ,5.365
+O=C(/C=C/c1ccc(O)c(O)c1)CCc1ccccc1                                                                                        ,268.31199999999995,3.3129000000000026   ,4.0
+O=C(/C=C/c1ccc(O)c(O)c1)NC(COC(=O)/C=C/c1ccc(O)c(O)c1)C(=O)O                                                              ,429.38100000000014,1.3481999999999998   ,5.625
+O=C(/C=C/c1ccc(O)c(O)c1)NCC(OC(=O)/C=C/c1ccc(O)c(O)c1)C(=O)O                                                              ,429.38100000000014,1.3481999999999998   ,6.43
+O=C(/C=C/c1ccc(O)c(O)c1)NCCOC(=O)/C=C/c1ccc(O)c(O)c1                                                                      ,385.37200000000007,1.8950000000000002   ,5.19
+O=C(/C=C/c1ccc(O)c(O)c1)OC(C(=O)O)C(OC(=O)/C=C/c1ccc(O)c(O)c1)C(=O)O                                                      ,474.3740000000002 ,1.2283999999999997   ,6.890000000000001
+O=C(/C=C/c1ccc(O)c(O)c1)OC1CCC(OC(=O)/C=C/c2ccc(O)c(O)c2)CC1                                                              ,440.4480000000002 ,3.633200000000004    ,5.99
+O=C(/C=C/c1ccc(O)c(O)c1)OC1CCCC(OC(=O)/C=C/c2ccc(O)c(O)c2)C1                                                              ,440.44800000000015,3.633200000000003    ,5.75
+O=C(/C=C/c1ccc(O)c(O)c1)OC1C[C@](O)(C(=O)O)C[C@@H](O)[C@H]1OC(=O)/C=C/c1ccc(O)c(O)c1                                      ,516.4550000000003 ,1.0295999999999998   ,6.22
+O=C(/C=C/c1ccc(O)c(O)c1)OCC(OC(=O)/C=C/c1ccc(O)c(O)c1)C(=O)O                                                              ,430.36500000000007,1.7751999999999992   ,5.81
+O=C(/C=C/c1ccc(O)c(O)c1)OCCCOC(=O)/C=C/c1ccc(O)c(O)c1                                                                     ,400.38300000000004,2.712100000000002    ,4.84
+O=C(/C=C/c1ccc(O)c(O)c1)OCCCc1ccccc1                                                                                      ,298.33799999999997,3.2870000000000017   ,5.1
+O=C(/C=C/c1ccc(O)c(O)c1)OCCOC(=O)/C=C/c1ccc(O)c(O)c1                                                                      ,386.35600000000005,2.322000000000001    ,6.4
+O=C(/C=C/c1ccc(O)c(O)c1)OCCc1ccc2ccccc2c1                                                                                 ,334.37100000000004,4.050100000000003    ,4.36
+O=C(/C=C/c1ccc(O)c(O)c1)OCCc1cccc2ccccc12                                                                                 ,334.37100000000004,4.050100000000003    ,4.82
+O=C(/C=C/c1ccc(O)c(O)c1)OCCc1ccccc1                                                                                       ,284.311           ,2.8969000000000005   ,4.922499999999999
+O=C(/C=C/c1ccc(O)c(O)c1)OCc1ccccc1                                                                                        ,270.284           ,2.854400000000001    ,5.05
+O=C(/C=C/c1ccc(O)c(O)c1)O[C@@H]1C[C@@](OC(=O)/C=C/c2ccc(O)c(O)c2)(C(=O)O)C[C@@H](O)[C@@H]1O                               ,516.4550000000003 ,1.0295999999999996   ,5.8
+O=C(/C=C/c1ccc(O)c(O)c1)O[C@@H]1C[C@](O)(C(=O)O)C[C@@H](O)[C@H]1O                                                         ,354.3110000000001 ,-0.6459000000000001  ,4.256666666666666
+O=C(/C=C/c1ccc(O)c(O)c1)O[C@@H]1C[C@](O)(C(=O)O)C[C@@H](OC(=O)/C=C/c2ccc(O)c(O)c2)[C@H]1O                                 ,516.4550000000003 ,1.0295999999999996   ,5.89
+O=C(/C=C/c1ccc(O)c(O)c1)O[C@H](C(=O)O)[C@H](OC(=O)/C=C/c1ccc(O)c(O)c1)C(=O)O                                              ,474.3740000000002 ,1.2283999999999997   ,6.473333333333334
+O=C(/C=C/c1ccc(O)c(O)c1)O[C@H](Cc1ccc(O)c(O)c1)C(=O)O                                                                     ,360.31800000000004,1.7612999999999996   ,5.166666666666667
+O=C(/C=C/c1ccc(O)c(O)c1)O[C@H]1C(O)C[C@](O)(C(=O)O)C[C@H]1OC(=O)/C=C/c1ccc(O)c(O)c1                                       ,516.4550000000003 ,1.0295999999999996   ,5.85
+O=C(/C=C/c1ccc(O)c(O)c1)O[C@H]1CCCC[C@@H]1OC(=O)/C=C/c1ccc(O)c(O)c1                                                       ,440.4480000000001 ,3.633200000000003    ,5.12
+O=C(/C=C/c1ccc(O)c(O)c1)O[C@H]1[C@H](O)C[C@](O)(C(=O)O)C[C@H]1OC(=O)/C=C/c1ccc(O)c(O)c1                                   ,516.4550000000003 ,1.0295999999999996   ,6.217499999999999
+O=C(/C=C/c1ccc(O)c(O)c1)Oc1cc(OC(=O)/C=C/c2ccc(O)c(O)c2)cc(C(=O)O)c1                                                      ,478.40900000000016,3.4448000000000025   ,5.16
+O=C(/C=C/c1ccc(O)c(O)c1)c1ccc(O)cc1                                                                                       ,256.257           ,2.6995000000000013   ,5.89
+O=C(/C=C/c1ccc(O)c(O)c1)c1ccc(O)cc1O                                                                                      ,272.256           ,2.4051000000000005   ,4.7
+O=C(/C=C/c1ccc(O)c(O)c1)c1cccc(C(=O)/C=C/c2ccc(O)c(O)c2)c1                                                                ,402.4020000000001 ,4.301200000000004    ,6.1
+O=C(/C=C/c1ccc(O)c(O)c1)c1ccccc1                                                                                          ,240.258           ,2.993900000000002    ,5.64
+O=C(/C=C/c1ccc(O)c(O)c1O)OCCc1ccccc1                                                                                      ,300.30999999999995,2.6025               ,5.7
+O=C(/C=C/c1ccc(O)cc1)/C=C/c1ccc(O)cc1                                                                                     ,266.296           ,3.3935000000000013   ,4.0
+O=C(/C=C/c1ccc(O)cc1)CC(=O)/C=C/c1ccc(O)cc1                                                                               ,308.333           ,3.3527000000000022   ,4.05
+O=C(/C=C/c1ccc(O)cc1)c1ccc(O)cc1O                                                                                         ,256.257           ,2.699500000000001    ,4.0
+O=C(/C=C/c1ccc(O)cc1)c1cccc(C(=O)/C=C/c2ccc(O)cc2)c1                                                                      ,370.40400000000005,4.890000000000003    ,4.52
+O=C(/C=C/c1cccn1Cc1ccc(Cl)cc1)CC(=O)C(=O)O                                                                                ,331.7550000000001 ,2.8159               ,4.245
+O=C(/C=C/c1cccn1Cc1ccc(F)cc1)CC(=O)C(=O)O                                                                                 ,315.3             ,2.3015999999999996   ,4.175
+O=C(/C=C/c1cccn1Cc1ccc([N+](=O)[O-])cc1)CC(=O)C(=O)O                                                                      ,342.30700000000013,2.0706999999999995   ,4.08
+O=C(/C=C/c1cccn1Cc1ccccc1)CC(=O)C(=O)O                                                                                    ,297.31            ,2.1625               ,5.13
+O=C(/C=C/c1ccco1)NC(=S)Nc1ccccc1O                                                                                         ,288.32800000000003,2.511600000000001    ,4.395
+O=C(/C=C\c1ccc(O)c(O)c1)OC1C(O)CC(OC(=O)/C=C\c2ccc(O)c(O)c2)(C(=O)O)CC1O                                                  ,516.4550000000003 ,1.0295999999999994   ,5.0649999999999995
+O=C(/C=C\c1ccc(O)c(O)c1)OC1CC(O)(C(=O)O)CC(OC(=O)/C=C\c2ccc(O)c(O)c2)C1O                                                  ,516.4550000000003 ,1.0295999999999996   ,6.1850000000000005
+O=C(/C=C\c1ccc(O)c(O)c1)OC1CC(OC(=O)/C=C\c2ccc(O)c(O)c2)(C(=O)O)CC(O)C1O                                                  ,516.4550000000003 ,1.0295999999999996   ,6.07
+O=C(/C=C\c1ccc(O)c(O)c1)OC1CCC(OC(=O)/C=C\c2ccc(O)c(O)c2)CC1                                                              ,440.4480000000002 ,3.633200000000004    ,6.0
+O=C(/C=C\c1ccc(O)c(O)c1)OC1CCCC(OC(=O)/C=C\c2ccc(O)c(O)c2)C1                                                              ,440.44800000000015,3.633200000000003    ,5.79
+O=C(/C=C\c1ccc(O)c(O)c1)OC1CCCCC1OC(=O)/C=C\c1ccc(O)c(O)c1                                                                ,440.4480000000001 ,3.633200000000003    ,5.08
+O=C(/N=N/c1c(O)[nH]c2ccc(F)cc12)/C(=C/C=C/c1ccccc1)NC(=O)c1ccccc1                                                         ,454.4610000000001 ,5.650200000000004    ,4.32
+O=C(CC(=O)C(=O)O)CC(=O)c1ccc(-c2ccccc2)cc1                                                                                ,310.305           ,2.539300000000001    ,5.7
+O=C(CC(=O)C(=O)O)CC(=O)c1ccc2ccccc2c1                                                                                     ,284.267           ,2.0255               ,5.22
+O=C(CC(=O)C(=O)O)CC(=O)c1cccc(Cl)c1                                                                                       ,268.652           ,1.5256999999999998   ,5.1
+O=C(CC(=O)C(=O)O)CC(=O)c1cccc2ccccc12                                                                                     ,284.267           ,2.0255               ,6.22
+O=C(CC(=O)C(=O)O)CC(=O)c1ccccc1                                                                                           ,234.207           ,0.8722999999999999   ,4.1
+O=C(CC(=O)C(=O)O)CC(=O)c1ccccc1C(F)(F)F                                                                                   ,302.20399999999995,1.8911               ,5.22
+O=C(CC(=O)C(=O)O)CC(=O)c1ccccc1Cl                                                                                         ,268.652           ,1.5256999999999998   ,6.306666666666666
+O=C(CC(=O)C(=O)O)CC(=O)c1ccccc1F                                                                                          ,252.19699999999997,1.0113999999999999   ,5.52
+O=C(CC(=O)C(=O)O)CC(=O)c1ccccc1OCc1ccccc1                                                                                 ,340.3310000000001 ,2.4513000000000007   ,5.16
+O=C(CC(=O)C(=O)O)CC(=O)c1ccccn1                                                                                           ,235.195           ,0.2672999999999998   ,4.0
+O=C(CC(=O)c1c[nH]c2ccccc12)c1nnn[nH]1                                                                                     ,255.237           ,1.1366999999999998   ,5.71
+O=C(CC(O)CCc1ccc(O)c(O)c1)O[C@H]1Cc2cc(O)c(O)cc2O[C@H]1c1ccc(O)c(O)c1                                                     ,498.4840000000002 ,2.892000000000003    ,5.925
+O=C(CC1Sc2ccccc2NC1=O)Nc1cccc(C(=O)O)c1                                                                                   ,342.3760000000001 ,2.8264000000000005   ,4.125
+O=C(CCc1ccc(O)c(O)c1)NCCc1cc(O)c(O)c(O)c1                                                                                 ,333.34000000000003,1.5060999999999993   ,5.4
+O=C(CCc1ccc(O)c(O)c1)NCCc1ccc(O)c(O)c1                                                                                    ,317.341           ,1.8004999999999993   ,5.0
+O=C(CCc1ccc(O)c(O)c1)OC(C(=O)O)C(OC(=O)CCc1ccc(O)c(O)c1)C(=O)O                                                            ,478.4060000000003 ,1.0671999999999997   ,5.62
+O=C(CCc1ccc(O)c(O)c1)OCCc1ccccc1                                                                                          ,286.32699999999994,2.816300000000001    ,4.96
+O=C(CCc1ccc(O)c(O)c1)c1ccc(O)c(O)c1O                                                                                      ,290.271           ,2.0301000000000013   ,5.885
+O=C(CCc1ccccc1Cl)CC(=O)C(=O)O                                                                                             ,254.66899999999995,1.8855               ,5.05
+O=C(CSc1nc(O)cc(CSc2ccc(Cl)cc2)n1)Nc1ccc(Cl)cc1Cl                                                                         ,486.8330000000002 ,6.165500000000003    ,4.545
+O=C(CSc1nc2ccccc2n1Cc1ccccc1)N/N=C/c1cc(Br)ccc1O                                                                          ,495.4020000000001 ,4.795100000000003    ,4.255
+O=C(Cc1ccc(O)c(O)c1)OC(C(=O)O)C(OC(=O)Cc1ccc(O)c(O)c1)C(=O)O                                                              ,450.3520000000002 ,0.2869999999999998   ,6.06
+O=C(Cc1ccccc1)Nc1cc(C(=O)O)c(NC(=O)Cc2ccccc2)cc1C(=O)O                                                                    ,432.43200000000013,3.445400000000002    ,5.105
+O=C(Cc1ccccc1)Nc1ccc2c(c1)C(=O)N(O)C(=O)C2C(=O)NCc1ccc(F)cc1                                                              ,461.4490000000001 ,2.778500000000001    ,6.64
+O=C(Cc1cccs1)Nc1ccc2c(c1)C(=O)N(O)C(=O)C2C(=O)NCc1ccc(F)cc1                                                               ,467.4780000000002 ,2.8400000000000007   ,7.22
+O=C(N/N=C/c1cc(Br)ccc1O)/C(=C/C=C/c1ccccc1)NC(=O)c1ccccc1                                                                 ,490.35700000000014,4.632100000000003    ,4.345
+O=C(N/N=C/c1ccc(/C=N/NC(=O)c2cc(O)cc(O)c2)cc1)c1cc(O)cc(O)c1                                                              ,434.40800000000013,2.0367999999999995   ,4.1850000000000005
+O=C(N/N=C/c1ccc(O)cc1O)N/N=C/c1ccc(O)cc1O                                                                                 ,330.30000000000007,1.1761999999999997   ,4.635
+O=C(N/N=C/c1ccc(O)cc1O)c1cc(C2CC2)[nH]n1                                                                                  ,286.29099999999994,1.4622               ,4.37
+O=C(NC(Cc1ccc(O)c(O)c1)C(=O)OCc1ccccc1)c1ccc([N+](=O)[O-])cc1                                                             ,436.42000000000013,3.0905000000000014   ,4.1899999999999995
+O=C(NCCCNC(=O)c1ccc2c(O)c(O)ccc2c1)c1ccc2c(O)c(O)ccc2c1                                                                   ,446.4590000000002 ,3.365300000000003    ,6.8
+O=C(NCCCNC(=O)c1ccc2cc(O)c(O)cc2c1)c1ccc2cc(O)c(O)cc2c1                                                                   ,446.4590000000002 ,3.365300000000002    ,6.05
+O=C(NCCc1ccc(F)cc1)c1c(O)n(O)c(=O)c2cc([N+](=O)[O-])ccc12                                                                 ,387.32300000000015,1.9641999999999997   ,7.22
+O=C(NCCc1ccccc1)c1cc2ccc(O)c(O)c2cn1                                                                                      ,308.33700000000005,2.618500000000002    ,4.4
+O=C(NCc1ccc(Cl)cc1)c1ncc2cccnc2c1O                                                                                        ,313.7440000000001 ,2.9188000000000014   ,4.7
+O=C(NCc1ccc(F)cc1)C1C(=O)N(O)C(=O)c2c(F)cccc21                                                                            ,346.28900000000004,1.7364               ,6.06
+O=C(NCc1ccc(F)cc1)C1C(=O)N(O)C(=O)c2cc(Br)ccc21                                                                           ,407.19500000000005,2.3598               ,7.22
+O=C(NCc1ccc(F)cc1)C1C(=O)N(O)C(=O)c2cc(C(F)(F)F)ccc21                                                                     ,396.29600000000005,2.6161000000000003   ,7.7
+O=C(NCc1ccc(F)cc1)C1C(=O)N(O)C(=O)c2cc(Cl)ccc21                                                                           ,362.7440000000001 ,2.2507               ,6.85
+O=C(NCc1ccc(F)cc1)C1C(=O)N(O)C(=O)c2cc(F)ccc21                                                                            ,346.28900000000004,1.7364               ,6.62
+O=C(NCc1ccc(F)cc1)C1C(=O)N(O)C(=O)c2ccc(F)cc21                                                                            ,346.28900000000004,1.7364               ,6.62
+O=C(NCc1ccc(F)cc1)c1c(O)n(O)c(=O)c2ccc([N+](=O)[O-])cc12                                                                  ,373.2960000000001 ,1.9216999999999997   ,7.52
+O=C(NCc1ccc(F)cc1)c1ccc2cccnc2c1O                                                                                         ,296.30100000000004,3.0095000000000014   ,5.7
+O=C(NCc1ccc(F)cc1)c1nc(-c2cccs2)nc(O)c1O                                                                                  ,345.3550000000001 ,2.6854000000000013   ,8.0
+O=C(NCc1ccc(F)cc1)c1nc(Cc2ccccc2)nc(O)c1O                                                                                 ,353.35300000000007,2.5477000000000016   ,7.3
+O=C(NCc1ccc(F)cc1)c1ncc2cccnc2c1O                                                                                         ,297.28900000000004,2.404500000000001    ,7.48
+O=C(NCc1ccc(F)cc1)c1ncnc(O)c1O                                                                                            ,263.228           ,0.9568999999999999   ,7.22
+O=C(NCc1ccc(O)c(O)c1)c1ccc2ccc(C(=O)O)c(O)c2n1                                                                            ,354.3180000000001 ,1.9797999999999996   ,5.3
+O=C(NCc1ccc(O)c(O)c1O)c1ccc2ccc(C(=O)O)c(O)c2n1                                                                           ,370.3170000000001 ,1.6853999999999996   ,5.82
+O=C(NCc1ccc(O)cc1O)c1ccc2ccc(C(=O)O)c(O)c2n1                                                                              ,354.3180000000001 ,1.9797999999999996   ,5.3
+O=C(NCc1cccc(CNC(=O)C(=O)NCc2ccco2)c1)C(=O)NCc1ccco1                                                                      ,438.4400000000001 ,0.7378000000000005   ,4.4
+O=C(NCc1cccc(O)c1O)c1ccc2ccc(C(=O)O)c(O)c2n1                                                                              ,354.3180000000001 ,1.9797999999999996   ,5.3
+O=C(NCc1ccccc1)c1c(O)n(O)c(=O)c2cc([N+](=O)[O-])ccc12                                                                     ,355.3060000000001 ,1.7825999999999997   ,8.0
+O=C(NCc1ccccc1)c1cc2cc(O)c(O)cc2cn1                                                                                       ,294.31            ,2.5760000000000014   ,4.0
+O=C(NCc1ccccc1)c1cc2ccc(O)c(O)c2cn1                                                                                       ,294.31            ,2.5760000000000014   ,4.12
+O=C(NCc1ccccc1)c1nc(-c2ccccc2)nc(O)c1O                                                                                    ,321.33600000000007,2.4848000000000017   ,7.16
+O=C(NCc1ccccc1)c1nc(-c2cccs2)nc(O)c1O                                                                                     ,327.36500000000007,2.5463000000000013   ,7.07
+O=C(NCc1ccccn1)c1c2c(c(O)c3ncccc13)C(=O)N(Cc1ccc(F)cc1)C2                                                                 ,442.45000000000016,3.560500000000002    ,6.72
+O=C(NCc1ccco1)c1cc(C(=O)NCc2ccco2)cc(C(=O)NCc2ccco2)c1                                                                    ,447.4470000000002 ,3.255600000000002    ,4.765
+O=C(NN1C(=O)C(Cl)C1c1ccc([N+](=O)[O-])cc1)c1ccccc1O                                                                       ,361.74100000000004,2.1361000000000003   ,4.08
+O=C(NN1C(=O)C(Cl)C1c1cccc(O)c1)c1ccccc1O                                                                                  ,332.74300000000005,1.9335               ,4.0
+O=C(NN1C(=O)C(Cl)C1c1ccccc1Cl)c1ccccc1O                                                                                   ,351.1890000000001 ,2.8813000000000017   ,4.03
+O=C(NNC(=O)c1cc2ccccc2cc1O)c1ccccc1O                                                                                      ,322.32000000000005,2.3258000000000005   ,5.8
+O=C(NNC(=O)c1ccccc1O)c1ccccc1O                                                                                            ,272.26            ,1.1725999999999994   ,5.731111111111112
+O=C(NNC(=O)c1ccccc1S)c1ccccc1O                                                                                            ,288.32800000000003,1.7556999999999996   ,5.140000000000001
+O=C(NNC(=O)c1ccccc1S)c1ccccc1S                                                                                            ,304.396           ,2.3388000000000004   ,4.885
+O=C(NNC(=O)c1ccccc1SSc1ccccc1C(=O)NNC(=O)c1ccccc1S)c1ccccc1S                                                              ,606.7760000000003 ,5.213000000000004    ,5.03875
+O=C(NNCc1ccccc1O)c1ccccc1O                                                                                                ,258.277           ,1.5323999999999995   ,5.225
+O=C(NNc1ccc([N+](=O)[O-])cc1[N+](=O)[O-])c1ccc2ccc(C(=O)O)c(O)c2n1                                                        ,413.30200000000013,2.2118999999999995   ,5.52
+O=C(NO)/C(CC(=O)c1ccc(O)cc1O)=N\O                                                                                         ,254.19800000000004,0.006199999999999761 ,4.475
+O=C(Nc1ccc(C(=O)O)c(O)c1)c1ccc(C(=O)Nc2ccc(O)c(C(=O)O)c2)cc1                                                              ,436.37600000000015,2.9988               ,4.68
+O=C(Nc1ccc(Cc2ccc(NC(=O)c3cccc([N+](=O)[O-])c3)c(C(=O)O)c2)cc1C(=O)O)c1cccc([N+](=O)[O-])c1                               ,584.4970000000003 ,4.994800000000004    ,4.855
+O=C(Nc1ccc(Cc2ccc(NC(=O)c3cccs3)c(C(=O)O)c2)cc1C(=O)O)c1cccs1                                                             ,506.5610000000002 ,5.301400000000003    ,4.3100000000000005
+O=C(Nc1ccc(Cc2ccc(O)c(NC(=O)c3ccccc3F)c2)cc1O)c1ccccc1F                                                                   ,474.46300000000014,5.4714000000000045   ,4.48
+O=C(Nc1ccc(Cl)cc1)c1cc(S(=O)(=O)Nc2nncn2-c2ccc(F)cc2)c(S)cc1Cl                                                            ,538.4130000000001 ,5.055000000000002    ,4.43
+O=C(Nc1ccc(F)cc1)c1c(O)n(O)c(=O)c2cc([N+](=O)[O-])ccc12                                                                   ,359.26900000000006,2.2439999999999998   ,7.52
+O=C(Nc1ccc(F)cc1)c1cc(S(=O)(=O)Nc2nncn2-c2ccc(F)cc2)c(S)cc1Cl                                                             ,521.9580000000001 ,4.540700000000003    ,4.265
+O=C(Nc1ccc(O)c(-c2nc3cc(Cl)ccc3o2)c1)c1cccnc1                                                                             ,365.77600000000007,4.501100000000003    ,4.605
+O=C(Nc1ccc(O)c(-c2nc3ccccc3o2)c1)c1cccc2ccccc12                                                                           ,380.4030000000001 ,5.6059000000000045   ,5.035
+O=C(Nc1ccc(O)c(O)c1)c1ccc2ccc(C(=O)O)c(O)c2n1                                                                             ,340.29100000000005,2.3021               ,6.05
+O=C(Nc1ccc2c(c1)C(=O)N(O)C(=O)C2C(=O)NCc1ccc(F)cc1)c1ccccc1                                                               ,447.4220000000001 ,2.8496000000000006   ,7.1
+O=C(Nc1ccc2c(c1)C(=O)N(O)C(=O)C2C(=O)NCc1ccc(F)cc1)c1ccccn1                                                               ,448.4100000000001 ,2.2445999999999993   ,6.8
+O=C(Nc1ccccc1)c1c(O)n(O)c(=O)c2cc([N+](=O)[O-])ccc12                                                                      ,341.27900000000005,2.1048999999999998   ,8.0
+O=C(Nc1ccccc1)c1cc(S(=O)(=O)Nc2nncn2-c2ccc(Cl)cc2)c(S)cc1Cl                                                               ,520.4230000000001 ,4.915900000000002    ,5.07
+O=C(Nc1ccccc1)c1cc(S(=O)(=O)Nc2nncn2-c2ccc(F)cc2)c(S)cc1Cl                                                                ,503.9680000000001 ,4.401600000000003    ,4.32
+O=C(O)/C(O)=C/C(=O)c1cn(Cc2ccc(C(F)(F)F)cc2)c2ccc(Cl)cc12                                                                 ,423.77400000000006,5.071000000000002    ,6.58
+O=C(O)/C(O)=C/C(=O)c1cn(Cc2ccc(C(F)(F)F)cc2)c2ccc(F)cc12                                                                  ,407.3190000000001 ,4.556700000000003    ,5.81
+O=C(O)/C=C/c1ccc(O)c(Oc2cc3cc(O)c(O)cc3oc2=O)c1                                                                           ,356.2860000000001 ,2.799900000000001    ,6.0
+O=C(O)/C=C/c1ccc(Oc2cc3cc(O)c(O)cc3oc2=O)c(O)c1                                                                           ,356.2860000000001 ,2.799900000000002    ,5.7
+O=C(O)C(=O)/C=C(/O)c1nc2c(=O)n(Cc3ccccc3)cnc2n1Cc1ccccc1                                                                  ,430.4200000000001 ,2.2421999999999995   ,4.945
+O=C(O)C(=O)/C=C(/O)c1nc2cncnc2n1Cc1ccccc1                                                                                 ,324.296           ,1.4271999999999998   ,4.5
+O=C(O)C(=O)/C=C(\O)c1c[nH]c2ccccc12                                                                                       ,231.20700000000002,1.7204999999999997   ,5.84
+O=C(O)C(=O)/C=C(\O)c1cc(/C(O)=C/C(=O)C(=O)O)c2ccccc2n1                                                                    ,357.27400000000006,1.3399999999999996   ,4.640000000000001
+O=C(O)C(=O)/C=C(\O)c1cc(OCc2ccccc2)cc(OCc2ccccc2)c1                                                                       ,404.4180000000001 ,4.397200000000003    ,6.8500000000000005
+O=C(O)C(=O)/C=C(\O)c1cc2cc3c(cc2n1Cc1ccccc1)OCO3                                                                          ,365.34100000000007,2.970900000000001    ,5.08
+O=C(O)C(=O)/C=C(\O)c1cc2ccccc2n1Cc1ccccc1                                                                                 ,321.33200000000005,3.242200000000002    ,5.35
+O=C(O)C(=O)/C=C(\O)c1ccc(/C(O)=C/C(=O)C(=O)O)cc1                                                                          ,306.226           ,0.7917999999999996   ,5.51
+O=C(O)C(=O)/C=C(\O)c1ccc(Cc2ccccc2)s1                                                                                     ,288.324           ,2.8915000000000015   ,6.3
+O=C(O)C(=O)/C=C(\O)c1ccc(Oc2ccccc2)cc1                                                                                    ,284.267           ,3.031500000000001    ,4.956666666666667
+O=C(O)C(=O)/C=C(\O)c1ccc2c(c1)c(=O)c(/C(O)=C/C(=O)C(=O)O)cn2Cc1ccc(F)cc1                                                  ,481.3880000000002 ,2.2941000000000003   ,7.3100000000000005
+O=C(O)C(=O)/C=C(\O)c1ccc2ncc(/C(O)=C/C(=O)C(=O)O)c(O)c2c1                                                                 ,373.27300000000014,1.0455999999999999   ,5.4025
+O=C(O)C(=O)/C=C(\O)c1cccc(Br)c1                                                                                           ,271.06600000000003,2.0017               ,5.6066666666666665
+O=C(O)C(=O)/C=C(\O)c1cccc(C(c2cccc(/C(O)=C/C(=O)C(=O)O)c2)c2ccccc2F)c1                                                    ,490.4390000000002 ,4.111100000000003    ,6.225
+O=C(O)C(=O)/C=C(\O)c1cccc(Cc2cccc(F)c2)c1                                                                                 ,300.285           ,2.969100000000002    ,6.6
+O=C(O)C(=O)/C=C(\O)c1cccc(Cc2ccccc2)c1                                                                                    ,282.295           ,2.830000000000001    ,8.0
+O=C(O)C(=O)/C=C(\O)c1cccc(Cc2ccccc2F)c1                                                                                   ,300.285           ,2.969100000000002    ,6.0
+O=C(O)C(=O)/C=C(\O)c1cccc(NC(=O)c2ccccc2)c1                                                                               ,311.293           ,2.4915000000000003   ,4.46
+O=C(O)C(=O)/C=C(\O)c1cccc(OCc2ccc(COc3cccc(/C(O)=C/C(=O)C(=O)O)c3)cc2)c1                                                  ,518.4740000000003 ,3.9498000000000024   ,5.744999999999999
+O=C(O)C(=O)/C=C(\O)c1cccc(OCc2cccc(COc3cccc(/C(O)=C/C(=O)C(=O)O)c3)c2)c1                                                  ,518.4740000000003 ,3.9498000000000024   ,5.77
+O=C(O)C(=O)/C=C(\O)c1cccc(OCc2ccccc2COc2cccc(/C(O)=C/C(=O)C(=O)O)c2)c1                                                    ,518.4740000000003 ,3.9498000000000024   ,6.135
+O=C(O)C(=O)/C=C(\O)c1ccccc1                                                                                               ,192.17000000000004,1.2392               ,4.365
+O=C(O)C(=O)/C=C(\O)c1cccn1Cc1ccccc1                                                                                       ,271.272           ,2.089                ,6.66
+O=C(O)C(=O)/C=C(\O)c1ccnc2ccccc12                                                                                         ,243.21800000000002,1.7873999999999999   ,4.0
+O=C(O)C(=O)/C=C(\O)c1ccsc1Cc1ccccc1                                                                                       ,288.324           ,2.8915000000000015   ,6.75
+O=C(O)C(=O)/C=C(\O)c1cn(Cc2ccc(F)cc2)c(=O)n(Cc2ccc(F)cc2)c1=O                                                             ,442.3740000000002 ,1.9373999999999998   ,5.41
+O=C(O)C(=O)/C=C(\O)c1cn(Cc2ccccc2)c(=O)[nH]c1=O                                                                           ,316.26900000000006,0.1375               ,5.65
+O=C(O)C(=O)/C=C(\O)c1cn(Cc2ccccc2)c(=O)n(Cc2ccccc2)c1=O                                                                   ,406.3940000000002 ,1.6591999999999998   ,6.0649999999999995
+O=C(O)C(=O)/C=C(\O)c1cn(Cc2ccccc2)c2ccc(Cl)cc12                                                                           ,355.7770000000001 ,3.8956000000000017   ,7.003333333333333
+O=C(O)C(=O)/C=C(\O)c1cn(Cc2ccccc2F)c(=O)n(Cc2ccccc2F)c1=O                                                                 ,442.3740000000002 ,1.9374               ,5.39
+O=C(O)C(=O)/C=C(\O)c1nc2c(ncn2Cc2ccccc2)c(=O)n1Cc1ccccc1                                                                  ,430.42000000000013,2.2421999999999995   ,5.045
+O=C(O)C(=O)CC(=O)c1cc(OCc2ccccc2)cc(OCc2ccccc2)c1                                                                         ,404.4180000000001 ,4.071100000000003    ,6.32
+O=C(O)C(=O)CC(=O)c1ccc(Cc2ccccc2)s1                                                                                       ,288.324           ,2.5654000000000012   ,6.3
+O=C(O)C(=O)CC(=O)c1cccc(C(=O)c2ccccc2)c1                                                                                  ,296.278           ,2.1441               ,5.625
+O=C(O)C(=O)CC(=O)c1cccc(Cc2ccc(Cl)cc2)c1                                                                                  ,316.74            ,3.157300000000002    ,6.15
+O=C(O)C(=O)CC(=O)c1cccc(Cc2cccc(F)c2)c1                                                                                   ,300.285           ,2.6430000000000007   ,6.6
+O=C(O)C(=O)CC(=O)c1cccc(OCc2ccc(C(=O)c3ccccc3)cc2)c1                                                                      ,402.4020000000001 ,3.723100000000003    ,4.63
+O=C(O)C(=O)CC(=O)c1ccccc1                                                                                                 ,192.17000000000002,0.9131               ,4.6
+O=C(O)C(=O)CC(=O)c1cccn1Cc1ccc(F)cc1                                                                                      ,289.262           ,1.9020000000000004   ,6.641999999999999
+O=C(O)C(=O)CC(=O)c1cccn1Cc1ccccc1                                                                                         ,271.272           ,1.7629000000000001   ,6.66
+O=C(O)C(=O)CC(=O)c1ccn(Cc2ccccc2)c1                                                                                       ,271.272           ,1.7629               ,6.26
+O=C(O)C(=O)CC(=O)c1ccsc1Cc1ccccc1                                                                                         ,288.324           ,2.5654000000000012   ,6.75
+O=C(O)C(=O)CC(=O)c1csc(Cc2ccccc2)c1                                                                                       ,288.324           ,2.5654000000000012   ,6.9
+O=C(O)C(CSSCC(Nc1ccc([N+](=O)[O-])cc1[N+](=O)[O-])C(=O)O)Nc1ccc([N+](=O)[O-])cc1[N+](=O)[O-]                              ,572.4900000000004 ,3.1312000000000006   ,4.275
+O=C(O)C(Cc1c[nH]c2ccccc12)NS(=O)(=O)c1ccccc1[N+](=O)[O-]                                                                  ,389.3890000000002 ,2.0503               ,4.154999999999999
+O=C(O)C(Cc1ccc(O)c(O)c1)C(Cc1ccc(O)c(O)c1)C(=O)O                                                                          ,362.3340000000001 ,1.6957999999999995   ,4.72
+O=C(O)C(c1ccc(O)c(O)c1)C(C(=O)O)c1ccc(O)c(O)c1                                                                            ,334.28000000000003,1.5455999999999996   ,4.63
+O=C(O)c1[nH]c(C(=O)O)c(-c2ccc(O)c(O)c2)c1-c1ccc(O)c(O)c1                                                                  ,371.3010000000001 ,2.567500000000001    ,5.28
+O=C(O)c1c[nH]c2ccc(Cc3cccc(Cl)c3F)cc2c1=O                                                                                 ,331.7300000000001 ,3.609600000000002    ,7.36
+O=C(O)c1cc(/C=C/c2ccc3ccc(C(=O)O)c(O)c3n2)ccc1O                                                                           ,351.314           ,3.212800000000001    ,5.895
+O=C(O)c1cc(C(=CCC23CC4CC(CC(C4)C2)C3)c2cc(Cl)c(O)c(C(=O)O)c2)cc(Cl)c1O                                                    ,517.4050000000001 ,6.839200000000006    ,5.16
+O=C(O)c1cc(Cc2ccc(O)c(C(=O)O)c2)ccc1O                                                                                     ,288.255           ,2.0850000000000004   ,4.1975
+O=C(O)c1cc(NC(=O)c2cccc3ccccc23)c(C(=O)O)cc1NC(=O)c1cccc2ccccc12                                                          ,504.4980000000003 ,5.894000000000004    ,4.615
+O=C(O)c1cc(NS(=O)(=O)c2ccc(NCCCN3CCOCC3)c([N+](=O)[O-])c2)cc(C(=O)O)c1                                                    ,508.50900000000036,1.9262               ,4.0
+O=C(O)c1cc(NS(=O)(=O)c2ccc(NCc3ccccc3)c([N+](=O)[O-])c2)cc(C(=O)O)c1                                                      ,471.4470000000002 ,3.4041000000000015   ,4.18
+O=C(O)c1cc(O)c(O)c(OC(=O)c2cc(O)c(O)c(O)c2)c1                                                                             ,322.22499999999997,1.1319999999999995   ,6.031666666666666
+O=C(O)c1cc2ccccc2c(/N=N/c2ccc(S(=O)(=O)Nc3nccs3)cc2)c1O                                                                   ,454.4890000000001 ,4.916300000000002    ,4.52
+O=C(O)c1ccc(/C=C/S(=O)(=O)CS(=O)(=O)/C=C/c2ccc(C(=O)O)cc2)cc1                                                             ,436.4630000000001 ,2.5117000000000003   ,4.48
+O=C(O)c1ccc(C(c2c(O)oc3ccccc3c2=O)c2c(O)oc3ccccc3c2=O)cc1                                                                 ,456.4060000000002 ,4.189000000000002    ,4.27
+O=C(O)c1ccc2[nH]cc(C(=O)CC(=O)c3nnn[nH]3)c2c1                                                                             ,299.246           ,0.8348999999999998   ,4.4
+O=C(O)c1ccc2c(O)c(O)ccc2c1                                                                                                ,204.18099999999998,1.9491999999999996   ,4.24
+O=C(O)c1ccc2cc(O)c(O)cc2c1                                                                                                ,204.18099999999998,1.9491999999999998   ,5.3
+O=C(O)c1ccc2ccc(/C=C/c3cc(Br)c(O)c(Br)c3)nc2c1O                                                                           ,465.0970000000001 ,5.039600000000002    ,5.904999999999999
+O=C(O)c1ccc2ccc(/C=C/c3cc(O)c(O)c(I)c3)nc2c1O                                                                             ,449.20000000000005,3.824800000000001    ,5.355
+O=C(O)c1ccc2ccc(/C=C/c3cc(O)c(O)c(O)c3)nc2c1O                                                                             ,339.30300000000005,2.925800000000001    ,6.4719999999999995
+O=C(O)c1ccc2ccc(/C=C/c3cc(O)cc(O)c3)nc2c1O                                                                                ,323.30400000000003,3.2202000000000006   ,5.5
+O=C(O)c1ccc2ccc(/C=C/c3ccc(O)c(O)c3)nc2c1O                                                                                ,323.30400000000003,3.2202000000000015   ,5.746666666666667
+O=C(O)c1ccc2ccc(/C=C/c3ccc(O)cc3)nc2c1O                                                                                   ,307.30500000000006,3.514600000000001    ,5.8
+O=C(O)c1ccc2ccc(/C=C/c3ccc(O)cc3O)nc2c1O                                                                                  ,323.30400000000003,3.220200000000001    ,5.5120000000000005
+O=C(O)c1ccc2ccc(/C=C/c3ccc([N+](=O)[O-])cc3)nc2c1O                                                                        ,336.30300000000005,3.7172000000000023   ,5.845
+O=C(O)c1ccc2ccc(/C=C/c3ccccc3)nc2c1O                                                                                      ,291.30600000000004,3.8090000000000015   ,5.413333333333334
+O=C(O)c1ccc2ccc(/C=C/c3cccnc3)nc2c1O                                                                                      ,292.29400000000004,3.204000000000001    ,5.175
+O=C(O)c1ccc2ccc(/C=C/c3ccco3)nc2c1O                                                                                       ,281.267           ,3.4020000000000015   ,5.505
+O=C(O)c1ccc2ccc(/C=C/c3ccsc3)nc2c1O                                                                                       ,297.33500000000004,3.870500000000001    ,5.494999999999999
+O=C(O)c1ccc2ccc(CCc3ccc(O)c(O)c3)nc2c1O                                                                                   ,325.32            ,2.835000000000002    ,5.7
+O=C(O)c1ccccc1C(c1cc(Br)c(O)c(Br)c1)c1ccc(Br)c(O)c1Br                                                                     ,635.9280000000001 ,7.026200000000005    ,4.4825
+O=C(O)c1cn(CCO)c2ccc(Cc3cccc(Cl)c3F)cc2c1=O                                                                               ,375.78300000000013,3.0753000000000013   ,7.62
+O=C(O)c1cnc2c(ccc3ncc(C(=O)O)c(O)c32)c1O                                                                                  ,300.22600000000006,1.5905999999999998   ,5.152
+O=C(O)c1cnc2ccc(Cc3ccccc3)cc2c1O                                                                                          ,279.295           ,3.2294000000000023   ,5.8
+O=C(O)c1ncc2cccnc2c1O                                                                                                     ,190.158           ,1.0335999999999996   ,4.96
+O=C(OC(C(=O)O)C(OC(=O)c1cc(O)c(O)c(O)c1)C(=O)O)c1cc(O)c(O)c(O)c1                                                          ,454.29600000000016,-0.15960000000000046 ,6.01
+O=C(OC(C(=O)O)C(OC(=O)c1ccc(O)c(O)c1)C(=O)O)c1ccc(O)c(O)c1                                                                ,422.2980000000001 ,0.4291999999999994   ,6.37
+O=C(OC(C(=O)O)C(OC(=O)c1cccc(O)c1O)C(=O)O)c1cccc(O)c1O                                                                    ,422.2980000000001 ,0.4291999999999994   ,5.97
+O=C(OCCc1ccccc1)c1ccc2c(O)c(O)ccc2c1                                                                                      ,308.333           ,3.6505000000000027   ,4.745
+O=C(OCCc1ccccc1)c1ccc2cc(O)c(O)cc2c1                                                                                      ,308.333           ,3.6505000000000027   ,4.17
+O=C([O-])c1ccc2ccc(/C=C/c3cc(O)c(O)c(O)c3)nc2c1O                                                                          ,338.295           ,1.5911000000000006   ,6.58
+O=C([O-])c1ccc2ccc(/C=C/c3ccc(O)c(O)c3)nc2c1O                                                                             ,322.29600000000005,1.8855               ,6.1
+O=C(c1cc(Cc2ccccc2)cc(CN2CCCS2(=O)=O)c1)c1ncc2cccnc2c1O                                                                   ,473.55400000000014,3.6927000000000034   ,8.0
+O=C(c1cc(Cc2ccccc2)ccn1)c1ccc2cccnc2c1O                                                                                   ,340.38200000000006,4.157200000000004    ,7.3
+O=C(c1ccc(O)cc1O)c1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-]                                                         ,349.21100000000007,2.0534               ,4.165
+O=C(c1cccc(Cc2ccccc2)c1)c1ccc2cccnc2c1O                                                                                   ,339.39400000000006,4.7622000000000035   ,6.43
+O=C(c1cccc(Cc2ccccc2)c1)c1ncc2cccnc2c1O                                                                                   ,340.38200000000006,4.157200000000003    ,7.400000000000001
+O=C(c1cccc(Cc2ccccc2)c1)c1oc2cccnc2c1O                                                                                    ,329.3550000000001 ,4.3552000000000035   ,6.0
+O=C(c1ccccc1)N1CCC(N2C(=O)c3c(c(O)c4nccnc4c3O)C2=O)CC1                                                                    ,418.40900000000016,1.9417999999999997   ,5.62
+O=C(c1ccccc1)c1cc(Br)ccc1NC(=O)c1nc[nH]c1C(=O)O                                                                           ,414.21500000000015,3.353700000000001    ,4.785
+O=C1/C(=C/c2ccc(O)c(O)c2)CC/C1=C\c1ccc(O)c(O)c1                                                                           ,324.332           ,3.3389000000000024   ,6.0
+O=C1/C(=C/c2ccc(O)c(O)c2)CCC/C1=C\c1ccc(O)c(O)c1                                                                          ,338.359           ,3.7290000000000028   ,6.05
+O=C1/C(=C/c2ccc(O)c(O)c2)CNC/C1=C\c1ccc(O)c(O)c1                                                                          ,339.34700000000004,2.1483000000000008   ,6.7
+O=C1/C(=C/c2ccc(O)c(O)c2)COC/C1=C\c1ccc(O)c(O)c1                                                                          ,340.331           ,2.575300000000002    ,6.7
+O=C1/C(=C/c2ccc(O)c(O)c2)CSC/C1=C\c1ccc(O)c(O)c1                                                                          ,356.39900000000006,3.2919000000000027   ,6.7
+O=C1/C(=C/c2ccc(O)c(O)c2)Cc2ccccc21                                                                                       ,252.26899999999998,2.9202000000000012   ,4.07
+O=C1C(=Cc2ccc(O)c(O)c2)C(=O)c2ccccc21                                                                                     ,266.252           ,2.5604000000000013   ,5.52
+O=C1C(=O)c2ccccc2C(O)=C1CSc1ccc(Cl)cc1                                                                                    ,330.79200000000003,4.166800000000002    ,4.0
+O=C1C(=O)c2ccccc2C(O)=C1Cc1ccc(Cl)cc1                                                                                     ,298.72499999999997,3.617200000000002    ,4.145
+O=C1C(O)=C(C(C#Cc2ccccc2)C2=C(O)C(=O)c3ccccc3C2=O)C(=O)c2ccccc21                                                          ,460.4410000000002 ,4.436900000000003    ,4.14
+O=C1C(O)=C(C(C2=C(O)C(=O)c3ccccc3C2=O)c2ccc(Cl)c(Cl)c2)C(=O)c2ccccc21                                                     ,505.30900000000025,5.859600000000004    ,4.165
+O=C1C(O)=C(C(C2=C(O)C(=O)c3ccccc3C2=O)c2ccc(Cl)cc2Cl)C(=O)c2ccccc21                                                       ,505.30900000000025,5.859600000000004    ,4.415
+O=C1C(O)=C(C(C2=C(O)C(=O)c3ccccc3C2=O)c2ccccc2)C(=O)c2ccccc21                                                             ,436.41900000000015,4.552800000000002    ,4.245
+O=C1C(O)=C(C(CCc2ccccc2)C2=C(O)C(=O)c3ccccc3C2=O)C(=O)c2ccccc21                                                           ,464.47300000000024,5.018000000000003    ,4.0649999999999995
+O=C1C(O)=C(c2ccccc2)C12CSC1(CS2)C(=O)C(O)=C1c1ccccc1                                                                      ,408.5000000000001 ,4.048000000000003    ,4.24
+O=C1CC(c2nc(C(=O)NCc3ccc(F)cc3)c(O)c3ncccc23)NC(=O)N1                                                                     ,409.3770000000001 ,1.6750999999999996   ,7.946666666666666
+O=C1C[C@@H](c2ccc(O)cc2)Oc2cc(O)cc(O)c21                                                                                  ,272.25600000000003,2.5099000000000014   ,5.77
+O=C1NC(=O)C(c2ccc(O)c(O)c2)=C1c1ccc(O)c(O)c1                                                                              ,313.265           ,1.0761999999999994   ,4.81
+O=C1NC(=S)SC1NS(=O)(=O)c1ccc(-c2ncccn2)cc1                                                                                ,366.4490000000001 ,0.8958999999999998   ,5.195
+O=C1NC(=S)SC1c1ccc(S(=O)(=O)Nc2ncccn2)cc1                                                                                 ,366.44900000000007,1.4664               ,4.695
+O=C1OC(=O)C(c2ccc(O)c(O)c2)=C1c1ccc(O)c(O)c1                                                                              ,314.249           ,1.5031999999999996   ,5.42
+O=C1OC2C(O)COC2(O)C1(O)Cc1cc(O)c(O)c(Br)c1Br                                                                              ,456.039           ,-0.09849999999999981 ,4.41
+O=C1OC[C@H](Cc2ccc(O)c(O)c2)[C@H]1Cc1ccc(O)c(O)c1                                                                         ,330.336           ,2.083400000000001    ,4.97
+O=C1Oc2ccccc2C(O)C1C(c1ccccc1)C1C(=O)Oc2ccccc2C1O                                                                         ,416.42900000000014,3.3078000000000016   ,4.385
+O=C1Oc2ccccc2C(O)C1Sc1c(O)oc2ccccc2c1=O                                                                                   ,356.3550000000001 ,2.611900000000001    ,4.05
+O=C1Sc2cc([N+](=O)[O-])ccc2C(=O)N2CSCC12                                                                                  ,296.329           ,1.7421999999999997   ,4.025
+O=C1Sc2cc3ccccc3cc2C(=O)N2CCSC12                                                                                          ,301.392           ,2.9872               ,4.3533333333333335
+O=C1Sc2cc3ccccc3cc2C(=O)N2CSCC12                                                                                          ,301.392           ,2.9872000000000005   ,4.02
+O=C1Sc2ccc(Br)cc2C(=O)N2CCSC12                                                                                            ,330.22800000000007,2.5965000000000007   ,4.28
+O=C1Sc2ccc(Br)cc2C(=O)N2CSCC12                                                                                            ,330.22800000000007,2.5965000000000007   ,4.095
+O=C1c2c(O)ccc(O)c2C(=O)c2c(NCCNCCO)ccc(NCCNCCO)c21                                                                        ,444.4880000000002 ,-0.13919999999999944 ,5.26
+O=C1c2c(c(-c3c(F)cccc3F)c3cccnc3c2O)CN1Cc1ccc(F)cc1                                                                       ,420.39000000000016,5.180700000000004    ,6.47
+O=C1c2c(c(C(=O)N3CCOCC3)c3cccnc3c2O)CN1Cc1ccc(F)cc1                                                                       ,421.4280000000001 ,2.7079000000000013   ,7.44
+O=C1c2c(c(O)c3ncccc3c2O)C(=O)N1Cc1ccc(F)cc1                                                                               ,338.294           ,2.5813000000000006   ,7.1
+O=C1c2c(c(O)c3ncccc3c2O)C(=O)N1Cc1cccc(Br)c1                                                                              ,399.2             ,3.2047000000000008   ,6.42
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1C1CCCC1                                                                                    ,299.2860000000001 ,1.5796               ,4.98
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1CC1CCCCC1                                                                                  ,327.3400000000002 ,2.2173               ,5.66
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1CCc1ccc2c(c1)OCO2                                                                          ,379.3280000000002 ,1.6083999999999996   ,5.85
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1CCc1ccccc1                                                                                 ,335.3190000000001 ,1.8797               ,5.69
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1cc(Br)ccc1F                                                                             ,418.17800000000005,2.7388000000000003   ,6.45
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1cc(Cl)cc(Cl)c1                                                                          ,390.18200000000013,3.144                ,6.73
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1cc(F)cc(F)c1                                                                            ,357.27200000000005,2.1153999999999997   ,6.43
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1ccc(-c2ccccc2)cc1                                                                       ,397.3900000000001 ,3.5042000000000018   ,5.84
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1ccc(-c2ccccc2F)cc1                                                                      ,415.3800000000001 ,3.6433000000000018   ,6.0
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1ccc(Br)cc1F                                                                             ,418.17800000000005,2.7388000000000012   ,6.36
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1ccc(Cl)c(Cl)c1                                                                          ,390.18200000000013,3.144000000000001    ,6.95
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1ccc(Cl)cc1                                                                              ,355.7370000000001 ,2.4906000000000006   ,6.38
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1ccc(F)c(Cl)c1                                                                           ,373.7270000000001 ,2.6297000000000006   ,6.75
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1ccc(F)cc1                                                                               ,339.28200000000004,1.9762999999999997   ,6.38
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1ccc(OC(F)(F)F)cc1                                                                       ,405.28800000000007,2.735800000000001    ,5.69
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1ccc2c(c1)OCO2                                                                           ,365.30100000000016,1.5658999999999998   ,6.25
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1cccc(-c2ccccc2F)c1                                                                      ,415.3800000000001 ,3.6433000000000018   ,6.3
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1cccc(Br)c1                                                                              ,400.18800000000005,2.5997000000000012   ,6.68
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1cccc(C(F)(F)F)c1                                                                        ,389.28900000000004,2.8560000000000008   ,6.37
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1cccc(Cl)c1                                                                              ,355.7370000000001 ,2.4906000000000006   ,6.66
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1cccc(F)c1                                                                               ,339.28200000000004,1.9763               ,6.25
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1cccc2ccccc12                                                                            ,371.3520000000001 ,2.990400000000001    ,5.85
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1ccccc1Br                                                                                ,400.18800000000005,2.5997000000000012   ,6.2
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1Cc1ccncc1                                                                                  ,322.28000000000003,1.2322               ,5.17
+O=C1c2c(c(O)c3nccnc3c2O)C(=O)N1c1ccc2c(c1)OCO2                                                                            ,351.2740000000001 ,1.5702999999999998   ,5.0
+O=C1c2c(c(O)c3nnccc3c2O)C(=O)N1Cc1cccc(Br)c1                                                                              ,400.18800000000005,2.5997000000000012   ,5.44
+O=C1c2c(cc3cccnc3c2O)CN1Cc1ccc(F)cc1                                                                                      ,308.31199999999995,3.235500000000002    ,7.16
+O=C1c2ccc(O)c(O)c2C(=O)c2c(O)ccc(O)c21                                                                                    ,272.212           ,1.2843999999999998   ,5.7
+O=C1c2ccccc2C(=O)c2c(Nc3ccc(S(=O)(=O)N(CCO)CCO)cc3)ccc(O)c21                                                              ,482.5140000000003 ,1.8865000000000003   ,5.3
+O=S(=O)(/C=C/c1cc(O)c(O)c(O)c1)CS(=O)(=O)/C=C/c1cc(O)c(O)c(O)c1                                                           ,444.43900000000014,1.3488999999999998   ,5.9
+O=S(=O)(/C=C/c1ccc(O)c(O)c1)CS(=O)(=O)/C=C/c1ccc(O)c(O)c1                                                                 ,412.4410000000001 ,1.9377000000000002   ,5.35
+O=S(=O)(/C=C/c1ccc2[nH]ccc2c1)CS(=O)(=O)/C=C/c1ccc2[nH]ccc2c1                                                             ,426.5190000000001 ,4.077900000000002    ,4.02
+O=S(=O)(CCc1ccc(O)c(O)c1)CS(=O)(=O)CCc1ccc(O)c(O)c1                                                                       ,416.47300000000024,1.0813               ,4.585
+O=S(=O)(Nc1ccccn1)c1ccc(/N=N/c2cnc(O)c(O)c2)cc1                                                                           ,371.3780000000001 ,3.104000000000002    ,4.225
+O=S(=O)(Nc1nccs1)c1ccc(/N=N/c2cnc(O)c(O)c2)cc1                                                                            ,377.4070000000001 ,3.1655000000000015   ,4.66
+O=S(=O)(Nc1nnc2c3ccccc3ccn12)c1ccc(F)cc1S                                                                                 ,374.4220000000001 ,3.1111000000000018   ,4.305
+O=S(=O)(Nc1nnc2c3ccccc3cnn12)c1ccc(Cl)cc1S                                                                                ,391.8650000000001 ,3.020400000000001    ,4.475
+O=S(=O)(Nc1nnc2n1-c1ccccc1CC2)c1ccc(Cl)cc1S                                                                               ,392.89300000000003,3.108800000000002    ,4.6850000000000005
+O=S1(=O)CCCCN1c1nc(/C([O-])=N/Cc2ccc(F)cc2)c([O-])c2ncccc12                                                               ,428.4450000000001 ,1.0795999999999994   ,8.0
+O=[N+]([O-])c1cc(-c2cc([N+](=O)[O-])c(O)c([N+](=O)[O-])c2)cc([N+](=O)[O-])c1O                                             ,366.19800000000004,2.3976               ,4.2725
+O=[N+]([O-])c1cc(Cc2cc([N+](=O)[O-])c(O)c([N+](=O)[O-])c2)cc([N+](=O)[O-])c1O                                             ,380.2250000000001 ,2.321400000000001    ,4.315
+O=[N+]([O-])c1cccc(/C=N/CCN2CCN(CC/N=C/c3cccc([N+](=O)[O-])c3O)C2c2cccc([N+](=O)[O-])c2O)c1O                              ,593.5530000000002 ,3.382400000000003    ,4.3075
+O=c1c(-c2ccc(O)cc2)coc2cc(N3CCOCC3)cc(O)c12                                                                               ,339.3470000000001 ,2.707800000000001    ,5.77
+O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12                                                                                      ,270.24            ,2.576800000000001    ,5.96
+O=c1c(-c2ccc(O)cc2)coc2cc(OCc3ccc(F)cc3)cc(O)c12                                                                          ,378.355           ,4.589300000000002    ,4.1
+O=c1c(C(c2ccc(-c3ccccc3)cc2)c2c(O)oc3ccccc3c2=O)c(O)oc2ccccc12                                                            ,488.49500000000023,6.157800000000005    ,4.782
+O=c1c(C(c2ccc(/C=C/c3ccccc3)cc2)c2c(O)oc3cc(O)ccc3c2=O)c(O)oc2cc(O)ccc12                                                  ,546.5310000000003 ,6.072400000000005    ,5.455
+O=c1c(C(c2ccc(/C=C/c3ccccc3)cc2)c2c(O)oc3ccccc3c2=O)c(O)oc2ccccc12                                                        ,514.5330000000002 ,6.661200000000005    ,5.223333333333334
+O=c1c(C(c2ccc(O)cc2)c2c(O)oc3ccccc3c2=O)c(O)oc2ccccc12                                                                    ,428.3960000000002 ,4.196400000000002    ,4.125
+O=c1c(C(c2ccc(OCc3ccccc3)cc2)c2c(O)oc3ccccc3c2=O)c(O)oc2ccccc12                                                           ,518.5210000000003 ,6.069800000000006    ,4.792
+O=c1c(C(c2ccc([N+](=O)[O-])cc2)c2c(O)oc3ccccc3c2=O)c(O)oc2ccccc12                                                         ,457.3940000000001 ,4.399000000000003    ,4.47
+O=c1c(C(c2ccc3c(c2)Cc2ccccc2-3)c2c(O)oc3ccccc3c2=O)c(O)oc2ccccc12                                                         ,500.5060000000002 ,6.062000000000006    ,5.018
+O=c1c(C(c2ccc3c(c2)OCO3)c2c(O)oc3ccccc3c2=O)c(O)oc2ccccc12                                                                ,456.4060000000001 ,4.219500000000002    ,4.54
+O=c1c(C(c2ccc3ccccc3c2)c2c(O)oc3cc(O)ccc3c2=O)c(O)oc2cc(O)ccc12                                                           ,494.4550000000002 ,5.055200000000005    ,5.415
+O=c1c(C(c2ccc3ccccc3c2)c2c(O)oc3ccccc3c2=O)c(O)oc2ccccc12                                                                 ,462.45700000000016,5.6440000000000055   ,4.794
+O=c1c(C(c2ccccc2)c2c(O)oc3cc(O)ccc3c2=O)c(O)oc2cc(O)ccc12                                                                 ,444.3950000000002 ,3.902000000000001    ,4.705
+O=c1c(C(c2ccccc2)c2c(O)oc3ccccc3c2=O)c(O)oc2ccccc12                                                                       ,412.39700000000016,4.490800000000003    ,4.38
+O=c1c(C(c2ccccn2)c2c(O)oc3cc(O)ccc3c2=O)c(O)oc2cc(O)ccc12                                                                 ,445.38300000000015,3.2970000000000006   ,4.1339999999999995
+O=c1c(C(c2cccnc2)c2c(O)oc3cc(O)ccc3c2=O)c(O)oc2cc(O)ccc12                                                                 ,445.3830000000002 ,3.2970000000000006   ,4.2175
+O=c1c(C(c2ccco2)c2c(O)oc3ccccc3c2=O)c(O)oc2ccccc12                                                                        ,402.3580000000001 ,4.083800000000002    ,4.286666666666666
+O=c1c(C(c2cccs2)c2c(O)oc3ccccc3c2=O)c(O)oc2ccccc12                                                                        ,418.42600000000016,4.552300000000003    ,4.0
+O=c1c(C(c2cnc3ccccc3c2)c2c(O)oc3ccccc3c2=O)c(O)oc2ccccc12                                                                 ,463.4450000000003 ,5.039000000000005    ,4.578
+O=c1c(Cc2c(O)oc3cc(O)ccc3c2=O)c(O)oc2cc(O)ccc12                                                                           ,368.2970000000001 ,2.3125999999999998   ,4.34
+O=c1c(Cc2ccc(Cc3c(O)oc4ccccc4c3=O)cc2)c(O)oc2ccccc12                                                                      ,426.42400000000015,4.492200000000004    ,4.125
+O=c1c(Cc2cccc(Cc3c(O)oc4ccccc4c3=O)c2)c(O)oc2ccccc12                                                                      ,426.42400000000015,4.492200000000003    ,4.5975
+O=c1c(Cc2ccccc2Cc2c(O)oc3ccccc3c2=O)c(O)oc2ccccc12                                                                        ,426.42400000000015,4.492200000000004    ,4.465
+O=c1c(O)c(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12                                                                             ,318.237           ,1.6935999999999998   ,5.66
+O=c1c(O)c(-c2cc(O)c(O)c(O)c2)oc2cc(O)ccc12                                                                                ,302.238           ,1.9880000000000004   ,5.515000000000001
+O=c1c(O)c(-c2ccc(O)c(O)c2)oc2c(O[C@@H]3O[C@@H](O)[C@@H](O)[C@H](O)[C@H]3O)c(O)cc(O)c12                                    ,466.3510000000001 ,-0.8758000000000006  ,4.405
+O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(N3CCOCC3)cc(O)c12                                                                         ,371.34500000000025,2.1189999999999993   ,6.01
+O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)c(O)c(O)c12                                                                             ,318.2370000000001 ,1.6936000000000002   ,6.385000000000001
+O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12                                                                                ,302.23800000000006,1.988                ,5.205
+O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(OCc3ccc(F)cc3)c12                                                                    ,410.3530000000002 ,4.000500000000002    ,5.4350000000000005
+O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)ccc12                                                                                   ,286.23900000000003,2.282400000000001    ,4.8100000000000005
+O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(OCc3ccc(F)cc3)cc(O)c12                                                                    ,410.3530000000001 ,4.000500000000002    ,5.376666666666668
+O=c1c(O)c(-c2ccc(O)c(OCc3ccc(F)cc3)c2)oc2cc(O)cc(O)c12                                                                    ,410.3530000000001 ,4.000500000000002    ,5.75
+O=c1c(O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12                                                                                   ,286.23900000000003,2.2824000000000004   ,4.1
+O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12                                                                                  ,302.23800000000006,1.987999999999999    ,4.3100000000000005
+O=c1c(O)c(-c2ccc(OCc3ccc(F)cc3)c(O)c2)oc2cc(O)cc(O)c12                                                                    ,410.3530000000001 ,4.000500000000003    ,5.85
+O=c1c(OC2COC(O)C(O)C2O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12                                                                 ,434.3530000000002 ,0.10019999999999951  ,4.39
+O=c1c(OCc2ccc(F)cc2)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12                                                                    ,410.3530000000002 ,4.000500000000004    ,6.42
+O=c1c2cc(Cc3ccccc3)ccc2oc2ccc(O)c(O)c12                                                                                   ,318.3280000000001 ,3.948200000000003    ,6.22
+O=c1cc(-c2ccc(O)c(O)c2)oc2cc(N3CCOCC3)cc(O)c12                                                                            ,355.3460000000001 ,2.4134000000000007   ,5.8
+O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12                                                                                   ,286.23900000000003,2.2824000000000004   ,5.119999999999999
+O=c1cc(-c2ccc(O)cc2)oc2cc(N3CCOCC3)cc(O)c12                                                                               ,339.3470000000001 ,2.707800000000001    ,5.77
+O=c1cc(-c2ccc(O)cc2)oc2cc(O)cc(O)c12                                                                                      ,270.24            ,2.576800000000001    ,5.82
+O=c1cc(-c2ccc(O)cc2)oc2cc(OCc3ccc(F)cc3)cc(O)c12                                                                          ,378.355           ,4.589300000000002    ,4.279999999999999
+O=c1cc(-c2ccccc2)oc2cc(O)c(O)c(O)c12                                                                                      ,270.24            ,2.576800000000001    ,5.618
+O=c1cc(-c2ccccc2)oc2cc(O)cc(O)c12                                                                                         ,254.24099999999999,2.8712000000000013   ,5.85
+O=c1cc(-c2ccccc2)oc2cc(OCc3ccc(F)cc3)c(O)c(O)c12                                                                          ,378.3550000000001 ,4.589300000000003    ,5.16
+O=c1nc(N2CCC(F)(F)CC2)c2cccnc2n1O                                                                                         ,282.25            ,1.2642999999999995   ,5.1
+O=c1nc(NCC2CC2)c2cccnc2n1O                                                                                                ,232.24300000000002,0.8506999999999998   ,5.41
+O=c1nc(NCc2ccc(-c3ccccc3)cc2)c2cccnc2n1O                                                                                  ,344.374           ,3.307900000000001    ,6.2
+O=c1nc(NCc2ccc(-c3ccncc3)cc2)c2cccnc2n1O                                                                                  ,345.362           ,2.7028999999999996   ,5.9
+O=c1nc(NCc2ccc(F)cc2)c2cccnc2n1O                                                                                          ,286.26599999999996,1.78                 ,5.5
+O=c1nc(NCc2ccc(N3CCOCC3)cc2)c2cccnc2n1O                                                                                   ,353.382           ,1.4774999999999998   ,5.8
+O=c1nc(NCc2cccc(CN3CCOCC3)c2)c2cccnc2n1O                                                                                  ,367.409           ,1.4730999999999999   ,4.8
+O=c1nc(NCc2cccc(N3CCOCC3)c2)c2cccnc2n1O                                                                                   ,353.382           ,1.4774999999999998   ,5.7
+O=c1nc(Nc2ccc(-c3ccccc3)cc2)c2cccnc2n1O                                                                                   ,330.34700000000004,3.439400000000002    ,6.1
+O=c1nc(Nc2ccc(-c3ccncc3)cc2)c2cccnc2n1O                                                                                   ,331.33500000000004,2.8344000000000005   ,5.7
+O=c1nc(Nc2ccc(CN3CCOCC3)cc2)c2cccnc2n1O                                                                                   ,353.382           ,1.6045999999999998   ,5.89
+O=c1nc(Nc2ccc(N3CCOCC3)cc2)c2cccnc2n1O                                                                                    ,339.35499999999996,1.6089999999999998   ,6.3
+O=c1oc2c(O)c(O)cc3c(=O)oc4c(O)c(O)cc1c4c23                                                                                ,302.194           ,1.3127999999999997   ,5.29
+O=c1oc2cc(O)c(O)cc2cc1O                                                                                                   ,194.14199999999997,0.9097999999999999   ,5.7
+O=c1oc2ccccc2c(O)c1C1c2c(c3ccccc3oc2=O)Oc2c1c(=O)oc1ccccc21                                                               ,478.41200000000026,4.997300000000003    ,4.550000000000001
+Oc1cc2c(cc1O)C1Cc3cc(O)c(O)cc3C(C2)O1                                                                                     ,286.283           ,2.4202000000000012   ,5.89
+Oc1ccc(-c2ccc3cc(O)c(O)cc3c2)cc1O                                                                                         ,268.268           ,3.3292000000000015   ,5.68
+Oc1ccc(/C=C/c2ccc3ccc(/C=C/c4ccc(O)c(O)c4)c(O)c3n2)cc1O                                                                   ,413.42900000000014,5.103600000000006    ,5.5649999999999995
+Oc1ccc(/C=C/c2ccc3cccc(O)c3n2)cc1O                                                                                        ,279.295           ,3.5220000000000016   ,5.375
+Oc1ccc(C(c2c[nH]c3ccccc23)c2c[nH]c3ccccc23)cc1O                                                                           ,354.4090000000001 ,5.240600000000003    ,4.640000000000001
+Oc1cccc(/C=N/N=C/c2cccc(O)c2O)c1O                                                                                         ,272.26            ,1.962000000000001    ,4.734999999999999
+Oc1ccccc1/C=N/CC(O)C/N=C/c1ccccc1O                                                                                        ,298.34200000000004,1.9967000000000001   ,4.109999999999999
+[N-]=[N+]=NC1CC(N=[N+]=[N-])c2cc(/C(O)=C\C(=O)C(=O)O)ccc21                                                                ,314.2610000000001 ,3.345700000000001    ,6.44
+[N-]=[N+]=NC1CC(N=[N+]=[N-])c2cc(C(=O)CC(=O)C(=O)O)ccc21                                                                  ,314.261           ,3.0196000000000005   ,6.44
+[N-]=[N+]=NC1CCC(N=[N+]=[N-])c2cc(/C(O)=C\C(=O)C(=O)O)ccc21                                                               ,328.28800000000007,3.735800000000003    ,6.5
+[N-]=[N+]=NCc1ccc(C(=O)CC(=O)C(=O)O)cc1                                                                                   ,247.20999999999995,1.7234               ,5.18
+[N-]=[N+]=NCc1ccc(C(=O)CC(=O)C(=O)O)cc1CN=[N+]=[N-]                                                                       ,302.25            ,2.5337000000000005   ,6.7
+[N-]=[N+]=NCc1cccc(C(=O)CC(=O)C(=O)O)c1                                                                                   ,247.20999999999995,1.7233999999999996   ,5.82
+[N-]=[N+]=Nc1cccc(C(=O)CC(=O)C(=O)O)c1                                                                                    ,233.18299999999994,1.8548999999999995   ,5.28
