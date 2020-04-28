@@ -4,7 +4,9 @@ Learning To Navigate The Synthetically Accessible Chemical Space Using Reinforce
 
 BibTeX:
 
-@misc{gottipati2020learning,
+@misc{
+
+    gottipati2020learning,
     
     title={Learning To Navigate The Synthetically Accessible Chemical Space Using Reinforcement Learning},
     
