@@ -1,4 +1,12 @@
+import os
+
 from rdkit.Chem import Descriptors, MolToSmiles, AllChem
+
+current_path = os.path.dirname(os.path.abspath(__file__))
+descriptors_list = []
+with open(os.path.join(current_path, 'files', 'descriptors_list.txt'), "r") as f:
+    for line in f:
+        descriptors_list.append(line.strip())
 
 descriptors_dict = dict(Descriptors.descList)
 
@@ -17,7 +25,6 @@ def ecfp(molecule, options):
 
 def rdkit_headers():
     headers = [x[0] for x in Descriptors.descList]
-    headers.remove('Ipc')
     return headers
 
 
@@ -26,8 +33,6 @@ def fingerprint_headers(options):
 
 
 def rdkit_descriptors(molecule, options=None):
-    descriptors_list = list(descriptors_dict.keys())
-    descriptors_list.remove('Ipc')
     descriptors = []
     for desc_name in descriptors_list:
         try:
